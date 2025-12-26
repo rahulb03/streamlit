@@ -1,864 +1,553 @@
-aw JSON Data
-[
-0:{
-"index_title":"Index"
-"topic_1":"Lal Kitab : An Astrological Marvel"
-"page_1":2
-"topic_2":"Sun : Effects And Remedies"
-"page_2":5
-"topic_3":"Moon : Effects And Remedies"
-"page_3":11
-"topic_4":"Mars : Effects And Remedies"
-"page_4":17
-"topic_5":"Mercury : Effects & Remedies"
-"page_5":22
-"topic_6":"Jupiter : Effects And Remedies"
-"page_6":26
-"topic_7":"Venus : Effects And Remedies"
-"page_7":30
-"topic_8":"Saturn : Effects And Remedies"
-"page_8":34
-"topic_9":"Rahu: Effects And Remedies"
-"page_9":38
-"topic_10":"Ketu : Effects And Remedies"
-"page_10":43
-"topic_11":"Striking Principles and Precautions"
-"page_11":48
-"document_title":"1. Lal Kitab : An Astrological Marvel"
-"content_paragraph_1":"Lal Kitab, originally published in urdu language, enshrines such effective astrological principles and remedial measures that it has rightly been termed as “The Wonder Book” of Astrology. The science of palmistry too has been explained in such an exquisite manner that each of the 42 divisions of the human brain have been related to the different houses of a man’s birth chart in such a scientific manner that the sketch of the human brain reflects accurately on the lines of the palm. On the basis of these lines of the palm one can draw the actual horoscope of an individual and can do the placement of planets in various houses of the birth chart. The date of birth and the birth ascendant can be found out by reading the lines and mounts of the palm, which means that an individual’s accurate birth chart can be drawn by seeing the lines of his palm. Similarly, by studying the different aspects of a man’s residential house his birth chart can be accurately prepared on the basis of the sutras explained in the Lal Kitab."
-"content_paragraph_2":"In addition to the above, Lal Kitab has announced unique remedial measures to solve chronic and critical human problems in day to day life.These measures do not require the practice of ordeals, yagnas, havans and other complicated and expensive rituals, which prove more troublesome for persons who are already in trouble because of the evil effects of certain planets. These measures are again different from Yantras, Mantras and Tantras, which give various adverse effects if not followed rigorously in all their minute details. The measures suggested in Lal Kitab are electrically effective in solving all kinds of human troubles and tensions, without inflicting harm on anybody i.e. these remedies are completely self defensive against the evils created by the planets without causing injury in anyway to anyone concerned."
-"content_paragraph_3":"The first part of this great treatise contains the principles and Sutras for interpretation of horoscope, termed as “Vyakaran”. The birth chart of an individual is prepared like the traditional Parashar principles, but the only important difference is that the Rashis are not considered or taken into account for predictive astrology and, therefore, the digits indicating the Rashis in a traditional birth chart are scrapped. Secondly, for predictive purposes the ascendant is treated as the first house and it is regarded as the house of the first Rashi, i.e., Aries and counting progressively in a sequence upto the 12th house being that of Pisces.The specific principles of predictive astrology as per Lal Kitab are better summed up here as follows"
-"content_paragraph_4":"1. The Sun as lord of the 5th, the Mercury as lord of the 3rd and 6th, the Jupiter as lord of the 9th and the Saturn as lord of the 10th are directly or indirectly in some form or the other are the Karakas of the father and his property. But the Jupiter and the Sun, Jupiter and Mercury or Jupiter and Saturn occupying any house jointly carry no relevance to the knowledge, about father or father’s property at all. Even Mercury and Sun, Mercury and Saturn or Sun and Saturn also sitting together behave in the same manner."
-"content_paragraph_5":"2. If two or more inimical planets are occupying a single house, they will not behave as enemies. But it does not mean that they do not affect the influences of each other and show their own results of being in that house independently i.e. their conjuction does not affect their individual results."
-"content_paragraph_6":"3. Friendly planets together occupying a house become extremely friendly and help each other in producing good and auspicious results."
-"content_paragraph_7":"4. The 7th house is regarded as the Pucca Ghar (permanent house) of Mercury. If Mercury is placed in the 7th house of a horoscope, even the powerful planets like Sun, Mars, Jupiter and Saturn occupying a Kendra, 2nd or 11th house can not affect the health of the native adversely."
-"content_paragraph_8":"5. If a female planet is placed in any house along with Saturn and both are being aspected by any"
+{
+    "Mars": {
+        "1": {
+            "prediction": "Mars in the 1st house makes the native good natured, truthful and richer from the 28th year of age. He wins favours from the government and victory against the enemies without much effort. He earns large profits from the business associated with Saturn i.e., iron, wood, machinery etc. and the relatives represented by Saturn i.e., nephews, grandsons, uncles etc. Spontaneous curses from the mouth of such a native will never go waste. Association of Saturn with Mars provides physical trouble to the native.",
+            "remedy": "1. Avoid the acceptance of things free of cost or in charity. 2. Avoid evil deeds and telling lies. 3. Association with saints and Faqirs will prove very harmful. 4. Things of ivory will give very adverse effects. Avoid them."
+        },
+        "2": {
+            "prediction": "The native with Mars in the 2nd house is generally the eldest issue of his parents, or else he or she would always like to be treated so. Mars in this house provides great wealth and properties from the in-laws' family. Mars negative here makes the native a snake in disguise for others and causes his death in war or quarrels. Mars with Mercury in the 2nd house weakens the will power and undermines the importance of the native.",
+            "remedy": "1. The business associated with Moon, e.g., trade in cloth, will provide great prosperity. 2. Ensure that your in-laws make arrangements for providing drinking water facilities to the common people. 3. Keep deer skin in the house."
+        },
+        "3": {
+            "prediction": "The 3rd house is affected by Mars and Mercury, who provide brothers and sisters to the native. Others will be highly benefited from the native, but he will not be able to receive benefit from others. In-laws will become richer and richer after the native's marriage. The native suffers from blood disorders.",
+            "remedy": "1. Be soft hearted and avoid arrogance. Be good to brothers for prosperity. 2. Keep articles of ivory with you. 3. Put on silver ring in the left hand."
+        },
+        "4": {
+            "prediction": "The fire and heat of Mars in this house burns the cold water of Moon, meaning the properties of the Moon are adversely affected. The native loses peace of mind and suffers from jealousy. He always misbehaves with his younger brothers. Such a native affects the life of his mother, wife, mother-in-law etc very adversely. His anger becomes the cause of his overall destruction.",
+            "remedy": "1. Offer sweet milk to the roots of a banyan tree and put that wet soil on your navel. 2. To avoid havoc from fire, place empty bags of sugar on the roof of your house, shop or factory. 3. Always keep a square piece of silver with you. 4. Keep away from black, one-eyed or disabled person."
+        },
+        "5": {
+            "prediction": "Mars ensures very good results in this house. The sons of the native become instruments of wealth and fame. Prosperity increases manifold after the birth of sons. Someone of his forefathers must have been a doctor or Vaidya. Romance and emotional affairs with the opposite sex will prove highly disastrous, destroying mental peace and night sleep.",
+            "remedy": "1. Maintain a good moral character. 2. Keep water in a pot below the head side of your bed at night and drop it in a flower pot in the morning. 3. Offer Shradha to your ancestors and plant a Neem tree in the house."
+        },
+        "6": {
+            "prediction": "The native will be courageous, adventurous, a lover of justice and powerful. He will be highly benefited by the trade and business associated with Mercury. His pen will wield more power than the sword. If Sun, Saturn and Mars are placed together in one house, the brothers, mother, sisters and wife will be affected very adversely.",
+            "remedy": "1. Distribute salt in place of sweets on the birth of a male child. 2. His brothers should keep the native happy by offering him something or the other for their protection. 3. The male children of the native should not wear gold. 4. Adopt remedies of Saturn for family comfort and worship Ganeshji."
+        },
+        "7": {
+            "prediction": "This house ensures that the native's ambition will be fulfilled. Wealth, property and family will increase. If Mercury is also placed here alongwith Mars, very adverse results will follow regarding sisters, sisters-in-law, and maid servants.",
+            "remedy": "1. Place solid piece of silver in the house for prosperity. 2. Always offer sweets to daughter, sister, sister-in-law and widows. 3. Repeatedly build a small wall and destroy it."
+        },
+        "8": {
+            "prediction": "No planet is considered good in this house. Mars here affects very adversely the younger brothers of the native. The native sticks to commitments made by him without caring for profit or loss.",
+            "remedy": "1. Obtain blessings of widows and wear a silver chain. 2. Offer sweet loaves of bread prepared on Tandoor to dogs. 3. Take your meals in the kitchen. 4. Build a small dark room at the end of your house and do not allow sun light to enter it. 5. Fill an earthern pot with 'Deshi Khand' and bury it near a cremation ground."
+        },
+        "9": {
+            "prediction": "Mars placed in this house will prove good in every manner to the native by virtue of the help and blessings of the elders. His brother's wife proves very fortunate for him. Living with brothers in a joint family will enhance all round happiness. The native will gain a highly prestigious administrative post upto the 28th year of his age.",
+            "remedy": "1. Obedience to elder brother. 2. Render services to your Bhabhi. 3. Do not become an atheist and follow your traditional customs. 4. Offer rice, milk and jaggery at religious places of worship."
+        },
+        "10": {
+            "prediction": "This is the best position of Mars in a horoscope, the place of his exaltation. If the native is born in a poor family, his family will become rich and affluent. He will be bold, courageous, healthy and competent. Beneficial effects are reduced if malefic planets Rahu, Ketu and Saturn or Venus and Moon are placed in the 2nd house.",
+            "remedy": "1. Do not sell ancestral property and gold of the house. 2. Keep a pet deer in your house. 3. While boiling milk, ensure that it should not overflow and fall on the fire. 4. Offer help to one-eyed and childless persons."
+        },
+        "11": {
+            "prediction": "Mars gives good results in this house. If Jupiter is in exalted position, Mars gives very good results. Native is courageous and just and usually a trader.",
+            "remedy": "1. One should never sell one's ancestral property. 2. Keeping Sindoor or honey in an earthen pot will give good results."
+        },
+        "12": {
+            "prediction": "This house is inhabited by Jupiter, so now both Mars and Jupiter will give good results. Rahu will not trouble the native notwithstanding its position.",
+            "remedy": "1. Take honey the first thing in the morning. 2. Eating sweets and offering sweets to another person will increase the wealth of the native."
+        }
+    },
+    "Mercury": {
+        "1": {
+            "prediction": "Mercury in 1st house makes the native kind, humorous and diplomatic with administrative skill. He becomes selfish and mischievous by nature having special attraction for non-vegetarian dishes. Daughters have royal and luxurious lives. The native will be adept in the art of influencing others and live like a king. Malefic Mercury here with Moon in the 7th destroys the native because of intoxication.",
+            "remedy": "1. Keep away from green colour and sisters-in-law. 2. Avoid consumption of meat, eggs and liquor. 3. Business that requires sitting at one place is more beneficial."
+        },
+        "2": {
+            "prediction": "Mercury makes the native intelligent, self-centered, a destroyer of enemies and cheats. He will be rich and provide happiness to his father. Things represented by Mars and Venus will prove beneficial.",
+            "remedy": "1. Abstain from eggs, meat and liquor. 2. Association with sisters-in-law is harmful. 3. Keeping sheep, goat and parrots as pets is strictly prohibited."
+        },
+        "3": {
+            "prediction": "Mercury in the 3rd house is not considered good and is inimical to Mars. The native could receive benefits from his brother, but he will not be beneficial to his brother. It affects the income and the condition of the father very adversely.",
+            "remedy": "1. Clean your teeth with alum everyday. 2. Feed birds and donate a goat. 3. Don't live in a south facing house. 4. Distribute medicines of asthma."
+        },
+        "4": {
+            "prediction": "The native is considered fortunate, a good trader, and receives favours from the government. However, Mercury in this house effects the income and health of another person adversely.",
+            "remedy": "1. Put on silver chain for mental peace and golden chain for gaining wealth. 2. Put Kesar Tilak regularly for 43 days on forehead. 3. Serve monkeys by offering jaggery."
+        },
+        "5": {
+            "prediction": "This house makes the native happy, wealthy and wise. Spontaneous utterances from the mouth will certainly prove true. If Moon and Jupiter are not placed in good houses, Mercury would provide malefic effects.",
+            "remedy": "1. Wear a copper coin in white thread for obtaining riches. 2. Serve cows for the happiness of wife. 3. A Gomukhi house is auspicious, whereas a Shermukhi house would prove highly disastrous."
+        },
+        "6": {
+            "prediction": "Mercury becomes exalted in the 6th house. The native will be a self-made man and receive benefits from agricultural land, printing and trade. A north-facing house will give bad results. Daughter's marriage in the north direction will make her unhappy.",
+            "remedy": "1. Bury a bottle filled with Ganga water into agricultural land. 2. Put a silver ring in the left hand of your wife. 3. Start important work in the presence of daughters or with flowers in hand."
+        },
+        "7": {
+            "prediction": "In a male horoscope, Mercury in the 7th house is highly beneficial for others for whom the native wishes well. The pen of the native wields more power than the sword. The sister of the native's wife will prove highly helpful.",
+            "remedy": "1. Avoid any business in partnership. 2. Avoid speculation. 3. Do not keep relationship with sister-in-law of spoilt character."
+        },
+        "8": {
+            "prediction": "Mercury gives very bad results here unless placed with a male planet. During ages 32-34, income goes down by half. It causes disfavour from the government and diseases like blood disorders, eye problems, and vein troubles.",
+            "remedy": "1. Bury an earthen pot filled with honey in a cremation ground or deserted area. 2. Place milk or rain water in a container on the roof. 3. Put a ring in the nose of your daughter."
+        },
+        "9": {
+            "prediction": "Mercury provides very bad results as it is inimical to Jupiter. It causes continuous mental restlessness and defamation.",
+            "remedy": "1. Avoid the use of green colour. 2. Get your nose pricked. 3. Offer mushroom filled in an earthen pot to a religious place. 4. Do not accept any Tabeez from any Sadhu."
+        },
+        "10": {
+            "prediction": "Provides favour from the government and good sources of livelihood. The business of such a native flourishes in a Shermukhi house, but residency in such a house is disastrous.",
+            "remedy": "1. Consumption of eggs, meat and liquor are strictly prohibited. 2. Offer rice and milk in religious places."
+        },
+        "11": {
+            "prediction": "Gives bad results because of enmity to Jupiter. At the age of 34, the native undertakes works of extreme foolishness. It causes loss of wealth, mental peace and reputation. However, the children will be well educated.",
+            "remedy": "1. Wear copper coin in neck in a white thread. 2. Do not keep a widowed sister or father's sister in your house. 3. Avoid green colour and emerald. 4. Do not accept any Tabeez."
+        },
+        "12": {
+            "prediction": "Destroys night sleep and causes headache or loss of peace. If Mercury is accompanied by Saturn, very good results follow. Daughters and sisters will be unhappy as long as they live in the native's house. Speculation and marriage in the 25th year are harmful.",
+            "remedy": "1. Throw a new empty pitcher in a river. 2. Put on a ring of stainless steel. 3. Put Kesar Tilak on face and head. 4. Take advice of another person before starting new work."
+        }
+    },
+    "Jupiter": {
+        "1": {
+            "prediction": "Makes the native necessarily rich, even if deprived of education. He will rise every 8th year of his life. Marriage or house construction in the 24th or 27th year would prove inauspicious for the father's life. Rahu in the 8th causes the father's death by heart attack.",
+            "remedy": "1. Offer things of Mercury, Venus and Saturn to religious places. 2. Serve cows and help untouchables. 3. If Saturn is in the 5th, don't build a house. 4. Avoid wine, meat and eggs if Saturn is in 11th/12th."
+        },
+        "2": {
+            "prediction": "Results are affected as if Jupiter and Venus are together. Trading in gold or jewellery will destroy the wife, wealth and property. The native is admired by females and inherits the property of his father. May be benefited by lottery if 2nd, 6th and 8th houses are auspicious.",
+            "remedy": "1. Charity and donations will ensure prosperity. 2. Offer milk to snakes to ward off evils of Saturn in the 10th. 3. Fill up pits on the road in front of your house."
+        },
+        "3": {
+            "prediction": "Makes the native learned and rich with continuous government income. Saturn in the 4th indicates the native will be robbed by friends. If accompanied by inimical planets, the native is destroyed.",
+            "remedy": "1. Worship Goddess Durga and offer sweets/fruits to small girls. 2. Avoid sycophants."
+        },
+        "4": {
+            "prediction": "Jupiter stands exalted here and provides the powers of deciding the fate of others. He will possess large properties and government favours. Building a temple at home causes poverty and disturbed married life.",
+            "remedy": "1. Do not keep a temple in the house. 2. Serve elders. 3. Offer milk to snakes. 4. Never bare your body before anyone."
+        },
+        "5": {
+            "prediction": "Prosperity increases after the birth of a son; more sons lead to more prosperity. If Mercury, Venus and Rahu are in 2nd, 9th, 11th or 12th houses, bad results follow. If honest and laborious, Jupiter gives good results.",
+            "remedy": "1. Do not accept any donations or gifts. 2. Offer services to priests and sadhus."
+        },
+        "6": {
+            "prediction": "If Jupiter is benefic, the native will be of pious nature. He will get everything in life without asking. If Ketu is malefic and Mercury is also malefic, the native will be unlucky upto 34 years. Causes asthma to the father.",
+            "remedy": "1. Offer things connected with Jupiter in a temple. 2. Feed the cocks. 3. Offer clothes to the priest."
+        },
+        "7": {
+            "prediction": "The native will have a rise in luck after marriage. He will never be a debtor and will have good children. If malefic, native never gets support from brothers. Donating clothes leads to extreme poverty.",
+            "remedy": "1. Offer worship to Lord Shiva. 2. Do not keep idols of God in the house. 3. Keep gold tied in a yellow cloth. 4. Stay away from yellow clad Sadhus."
+        },
+        "8": {
+            "prediction": "Worldly comforts are provided, and help from God is received in times of distress. Wearing gold keeps the native happy. If Mercury, Venus or Rahu are in 2nd, 5th, 9th, 11th and 12th, the father will be ill.",
+            "remedy": "1. Offer things connected with Rahu (wheat, barley, coconut) into running water. 2. Plant a Pipal tree in a cremation ground. 3. Offer Ghee, potatoes and camphor in a temple."
+        },
+        "9": {
+            "prediction": "The native will be famous, rich, and true to his words. If malefic, the native will be atheistic. Bad results follow if inimical planets are in the 1st, 5th and 4th houses.",
+            "remedy": "1. Go to temple everyday. 2. Abstain from drinking alcohol. 3. Offer rice to running water."
+        },
+        "10": {
+            "prediction": "Native must be cunning and sly to enjoy good results. If Sun is in the 4th house, Jupiter gives very good results. Malefic Jupiter makes the native sad and impoverished, deprived of ancestral properties.",
+            "remedy": "1. Clean your nose before beginning any work. 2. Throw copper coins in running water for 43 days. 3. Offer almonds to religious places. 4. Do not establish a temple with idols in the house. 5. Put Tilak of saffron on the forehead."
+        },
+        "11": {
+            "prediction": "Adversely affects relatives of enemies Mercury, Venus and Rahu (wife, sisters, daughters). The native will be a debtor even if Mercury is well placed. Comfortable only as long as father lives with him in joint family.",
+            "remedy": "1. Always keep gold on your body. 2. Put on a copper bangle. 3. Watering a Pipal tree is beneficial."
+        },
+        "12": {
+            "prediction": "Good conduct and religious practices lead to wealth and power. Abstaining from evil acts of Saturn makes business of machinery and motors highly beneficial.",
+            "remedy": "1. Avoid furnishing false evidence. 2. Render services to sadhus and Pipal tree. 3. Place water and Saunf on the head side of the bed."
+        }
+    },
+    "Venus": {
+        "1": {
+            "prediction": "Makes the native highly handsome, long lived and popular among the opposite sex. Wife remains ill. Earns great profits through the trade of clothes. In Varsha Phal, Venus in the 7th causes chronic fever and cough.",
+            "remedy": "1. Do not marry at age 25. 2. Act according to advice of others. 3. Serve a black cow. 4. Avoid sex during day time. 5. Take bath with curd."
+        },
+        "2": {
+            "prediction": "Wealth and property grow up to sixty years. Shermukhi house is disastrous. Business in gold is harmful, but earthen goods and agriculture are beneficial. Makes the wife incapable of producing a son.",
+            "remedy": "1. For getting a son, intake honey, Saunf or Deshi Khand. 2. Feed 2kg potatoes colored by turmeric to cows. 3. Offer 2kg cow's Ghee in a temple. 4. Avoid adultery."
+        },
+        "3": {
+            "prediction": "Blesses native with charming personality. Involvement with other women leads to subservience to the wife. Contacts with other women affect longevity adversely. Native will have many daughters.",
+            "remedy": "1. Respect your wife and never insult her. 2. Avoid flirting with other women."
+        },
+        "4": {
+            "prediction": "Possibility of two wives and native is rich. Being religious while Jupiter is in 10th brings adverse results. Covering a well by a roof destroys the possibility of a son. Trade associated with Mars is advantageous.",
+            "remedy": "1. Change name of your wife and remarry formally. 2. Throw rice, silver and milk in running water to ward off mother-in-law quarrels. 3. Keep roof clean. 4. Drop gram, pulses and Kesar in the river."
+        },
+        "5": {
+            "prediction": "Native is a flirt and amorous, facing big misfortunes. Maintaining good character brings great riches and promotions five years after marriage.",
+            "remedy": "1. Do not marry against parents' wishes. 2. Serve cows and mother-like women. 3. Avoid relationships with other women. 4. Wife should wash private parts with curd or milk."
+        },
+        "6": {
+            "prediction": "Venus stands debilitated. Keeping the opposite sex happy leads to wealth growth. Wife dressing or cutting hair like a male brings poverty. Native should marry someone with brothers.",
+            "remedy": "1. Wife should put gold clips in hair. 2. Spouse must not remain barefooted. 3. Wash private parts with red medicine."
+        },
+        "7": {
+            "prediction": "Venus gives very good results. If Rahu is in 1st, household affairs are adversely affected. Business associated with marriage ceremonies (tent house, beauty parlour) is beneficial.",
+            "remedy": "1. Domestication of white cows is prohibited. 2. Serve red cows. 3. Donate Jawar equal to spouse's weight to a temple. 4. Throw blue flowers in a dirty canal for 43 days."
+        },
+        "8": {
+            "prediction": "Venus becomes rotten and poisonous; wife is irritable and her evil utterances prove true. Taking guarantee for someone is disastrous. If 2nd house is empty, do not marry before 25, or wife will die.",
+            "remedy": "1. Do not accept Daan. 2. Bow head in temples. 3. Throw copper coin or blue flower in gutter for ten days. 4. Wash private parts with curd."
+        },
+        "9": {
+            "prediction": "Does not offer good results; wealth earned only after hard labour. If accompanied by Mercury or malefics, intoxication and disease strike from age 17.",
+            "remedy": "1. Bury silver and honey in the foundation of house. 2. Wear silver bangles with red colour. 3. Bury a silver piece under a Neem tree for 43 days."
+        },
+        "10": {
+            "prediction": "Native is greedy, suspicious, and acts under control of spouse. As long as spouse is present, troubles are warded off. Saturn-related businesses are advantageous.",
+            "remedy": "1. Wash private parts with curd. 2. Western wall should be of mud. 3. Abstain from wine and non-veg. 4. Donate a black cow during illness."
+        },
+        "11": {
+            "prediction": "Wife's brothers prove very beneficial. Native usually suffers from low sperm count.",
+            "remedy": "1. Use Mercury remedies. 2. Give oil on Saturdays. 3. Drink milk in which hot piece of gold has been dipped."
+        },
+        "12": {
+            "prediction": "Exalted Venus gives very beneficial results; wife acts as a shield in trouble. Native gains high spiritual powers at age 59 and lives up to 96.",
+            "remedy": "1. Wife should bury blue flowers at sunset for health. 2. Wife giving things in charity acts as defense. 3. Give cows in charity. 4. Offer love and respect to wife."
+        }
+    },
+    "Saturn": {
+        "1": {
+            "prediction": "Gives good results only when 3rd, 7th or 10th houses have no inimical planets. Celebrating birthdays gives very bad results. Hairy body and malefic Saturn lead to poverty.",
+            "remedy": "1. Abstinence from alcohol and meat. 2. Bury Surma for promotion. 3. Serve monkeys. 4. Offer sweet milk to banyan tree roots."
+        },
+        "2": {
+            "prediction": "Native will be wise, kind and just. Benefic or malefic status is decided by planets in the 8th house. After marriage, in-laws face problems if Saturn is malefic.",
+            "remedy": "1. Go barefoot to temple for 43 days. 2. Put Tilak of curd or milk on forehead. 3. Offer milk to snake."
+        },
+        "3": {
+            "prediction": "Gives good results. Native will be healthy, wise and intuitive. Longevity is enjoyed as long as native abstains from wine and meat.",
+            "remedy": "1. Serve three dogs. 2. Distribute eye medicines free. 3. Keep a dark room in the house."
+        },
+        "4": {
+            "prediction": "Gives mixed results; native is devoted to parents. Malefic status with wine, killing snakes, or night-time house foundations brings very bad results. Night-time milk is bad.",
+            "remedy": "1. Offer milk to snake and milk/rice to crow or buffalo. 2. Pour milk in well. 3. Pour rum in running water."
+        },
+        "5": {
+            "prediction": "Native will be proud. Should not construct a house until age 48, or son will suffer. Hairy body indicates dishonesty.",
+            "remedy": "1. Distribute salty things on son's birthday. 2. Offer almonds in temple and keep half at home."
+        },
+        "6": {
+            "prediction": "Night-time Saturn-related work is beneficial. Marriage after age 28 is good. Malefic Saturn with iron or leather items in the house is bad.",
+            "remedy": "1. Serve black dog. 2. Offer coconut and almonds in running water. 3. Serve snakes for children's welfare."
+        },
+        "7": {
+            "prediction": "Gives very good results; machinery and iron professions are profitable. Good relations with wife lead to wealth and long life. Malefic with adultery and wine.",
+            "remedy": "1. Bury a flute filled with sugar in a deserted place. 2. Serve black cow."
+        },
+        "8": {
+            "prediction": "Native has a long life, but father's life is short and brothers turn into foes. Bad results if Mercury, Rahu and Ketu are malefic.",
+            "remedy": "1. Keep a square piece of silver. 2. Put milk in water and sit on stone/wood while taking bath."
+        },
+        "9": {
+            "prediction": "Native will have three houses and be a tour operator or civil engineer. Happy life for parents and native. Son is born late.",
+            "remedy": "1. Offer rice or almonds in running water. 2. Gold/Kesar and Silver/Cloth works are good."
+        },
+        "10": {
+            "prediction": "Saturn's own house; gives wealth as long as no house is constructed. Native should be shrewd and work from one place.",
+            "remedy": "1. Go to temple. 2. Abstinence from meat, wine and eggs. 3. Feed ten blind people."
+        },
+        "11": {
+            "prediction": "Fate is decided at age 48; native will not remain childless. Earns money by shrewdness and deceit.",
+            "remedy": "1. Place vessel of water and drop oil/wine on earth for 43 days before important work. 2. Abstinence from drinking and maintain good character."
+        },
+        "12": {
+            "prediction": "Gives good results; native has no enemies and is very rich. Malefic if native drinks wine, eats meat or illuminates dark rooms.",
+            "remedy": "1. Tie twelve almonds in black cloth, place in iron pot in a dark room."
+        }
+    },
+    "Rahu": {
+        "1": {
+            "prediction": "Native achieves a higher position than qualifications and gets government favor. Result of exalted Sun, but spoils the house of Sun. Malefic Rahu suggests avoiding electric equipment or blue/black clothes from in-laws to protect sons.",
+            "remedy": "1. Offer 400g lead in running water. 2. Wear silver in the neck. 3. Mix barley in milk (1:4) and offer in running water. 4. Offer coconut in running water."
+        },
+        "2": {
+            "prediction": "Benefic Rahu brings money, prestige and a kingly life. Malefic Rahu causes poverty, bad family life, and intestinal disorders. Loss of wealth by theft between ages 21-42.",
+            "remedy": "1. Keep a solid silver ball in the pocket. 2. Wear gold, yellow cloth or saffron. 3. Keep cordial relations with mother. 4. No electric equipment from in-laws after marriage."
+        },
+        "3": {
+            "prediction": "Rahu's Pukka Ghar; benefic Rahu brings wealth, long life and fearlessness. Malefic Rahu leads to brothers/relatives wasting the native's money. Money borrowed is never returned.",
+            "remedy": "1. Never keep ivory or things of ivory in the house."
+        },
+        "4": {
+            "prediction": "Benefic Rahu makes native intelligent, wealthy and generous. Exalted Moon with Rahu brings great wealth. Malefic Rahu with weak Moon causes poverty and mother's suffering. Altering roofs or toilets indicates maleficence.",
+            "remedy": "1. Wear silver. 2. Offer 400g coriander or almonds in flowing water."
+        },
+        "5": {
+            "prediction": "Benefic Rahu makes native rich, wise, and a philosopher. Malefic Rahu leads to abortions and wife's health suffering after a son's birth.",
+            "remedy": "1. Keep a silver elephant. 2. Abstain from wine, meat and adultery. 3. Remarry your wife."
+        },
+        "6": {
+            "prediction": "Exalted Rahu makes native intelligent and victorious. Malefic Rahu harms brothers or friends. Sneezing before work gives bad results.",
+            "remedy": "1. Keep a black dog. 2. Keep a lead nail in pocket. 3. Never harm brothers/sisters."
+        },
+        "7": {
+            "prediction": "Native is rich but wife suffers. Marriage before age 21 is inauspicious. Business in electrical equipment brings losses. Sister or son may destroy the native if malefics are in 11th.",
+            "remedy": "1. Never marry before age 21. 2. Offer six coconuts in river."
+        },
+        "8": {
+            "prediction": "Gives malefic effects; money wasted on court cases and family life is affected. Richness possible if Mars or Saturn are benefic and present.",
+            "remedy": "1. Keep a square piece of silver. 2. Keep Saunf under the pillow. 3. Do not work in electricity/power department."
+        },
+        "9": {
+            "prediction": "Good relations with siblings is fruitful. Saturn-influenced professions are profitable. Malefic Rahu makes progeny useless if native is not religious. Less chance of begetting a son if native sues blood relations.",
+            "remedy": "1. Use saffron Tilak daily. 2. Wear gold. 3. Always keep a dog to save progeny. 4. Maintain good relations with in-laws."
+        },
+        "10": {
+            "prediction": "Uncovered head gives effect of debilitated Rahu. Rahu with Moon gives Raja Yoga and is lucky for the father. Malefic Rahu adversely affects the mother's health.",
+            "remedy": "1. Use blue or black cap. 2. Cover head. 3. Offer 4kg or 400g 'Khand' in temple or flowing water. 4. Feed blind people."
+        },
+        "11": {
+            "prediction": "Rich as long as father is alive. Money comes from mean people. Malefic Rahu causes bad relations with father. Urinary or spine problems if Ketu is in 5th.",
+            "remedy": "1. Wear iron and use silver glass for water. 2. Never take electric equipment as gift. 3. Do not keep blue sapphire, ivory or elephant toys."
+        },
+        "12": {
+            "prediction": "Causes mental troubles, insomnia and excessive expenditure on sisters/daughters. False allegations and suicidal thoughts if with enemies. Good results if Mars is with Rahu.",
+            "remedy": "1. Take meals in the kitchen. 2. Keep Saunf and Khand under the pillow."
+        }
+    },
+    "Ketu": {
+        "1": {
+            "prediction": "Benefic Ketu makes native laborious, rich and happy, but troubled by progeny. Lucky for father/Guru. Malefic Ketu causes headaches and health problems for the wife.",
+            "remedy": "1. Feed jaggery to monkeys. 2. Apply saffron Tilak. 3. Donate black and white blanket to temple for troubled offspring."
+        },
+        "2": {
+            "prediction": "Benefic Ketu brings paternal property; travels are fruitful. Malefic Ketu leads to wandering from place to place. High expenditure negates good income. Moon or Mars in 8th suggests a short life and serious problems at age 16 or 20.",
+            "remedy": "1. Apply turmeric or saffron Tilak. 2. Do not be of loose character. 3. Regularly visit and bow in temples."
+        },
+        "3": {
+            "prediction": "Benefic Ketu brings good children; native is God-fearing. Malefic Ketu causes money loss in litigation and separation from wife/sisters-in-law. Serious child problems if main gate faces south.",
+            "remedy": "1. Use saffron Tilak. 2. Wear gold. 3. Offer jaggery and rice in flowing water."
+        },
+        "4": {
+            "prediction": "Benefic Ketu makes native God-fearing and lucky for father/Guru. Son lives long and is born after Guru's blessing. Malefic Ketu causes ill health, mother's trouble, and loss of happiness. Son is born after age 36.",
+            "remedy": "1. Keep a dog. 2. Wear silver for peace of mind. 3. Offer yellow things in flowing water."
+        },
+        "5": {
+            "prediction": "Excellent financial condition and five sons if Jupiter/Sun/Moon are in 4th, 6th or 12th. Malefic Ketu causes asthma; sons may not survive. Livelihood starts after age 24.",
+            "remedy": "1. Donate milk and sugar. 2. Use Jupiter remedies."
+        },
+        "6": {
+            "prediction": "Considered debilitated but is Ketu's Pucca house. Benefic Jupiter brings a long life and peaceful old age. Malefic Ketu causes maternal uncle's suffering and skin diseases for the native.",
+            "remedy": "1. Wear golden ring on left hand. 2. Drink milk with saffron and wear gold in ear. 3. Keep a dog."
+        },
+        "7": {
+            "prediction": "Benefic Ketu brings 40 years' wealth by age 24. Wealth increases with children. Malefic Ketu leads to illness, false promises and enemy trouble until age 34.",
+            "remedy": "1. Never make false promises, be proud or abusive. 2. Use saffron Tilak. 3. Use Jupiter remedies for serious trouble."
+        },
+        "8": {
+            "prediction": "Benefic Ketu brings a son at age 34. Malefic Ketu causes wife's ill health and urinary problems or diabetes for the native. Family life suffers after age 26.",
+            "remedy": "1. Keep a dog. 2. Donate black and white blanket to temple. 3. Worship Lord Ganesha. 4. Wear gold in ear and use saffron Tilak."
+        },
+        "9": {
+            "prediction": "Exalted; native is obedient, lucky and wealthy. Son can guess the future. At least three sons are born. Malefic Ketu causes urinary problems and back pain.",
+            "remedy": "1. Keep a dog. 2. Establish a rectangular piece of gold in the house. 3. Wear gold in the ear. 4. Respect elders/father-in-law."
+        },
+        "10": {
+            "prediction": "Benefic Ketu makes native lucky and an opportunist; father dies early. Good character leads to wealth. Malefic Ketu causes ear, bone and urinary problems. Worries if Saturn is in 4th.",
+            "remedy": "1. Keep silver pot of honey. 2. Keep a dog after age 48. 3. Avoid adultery. 4. Use Moon and Jupiter remedies."
+        },
+        "11": {
+            "prediction": "Very good for wealth; native earns more than paternal wealth. Malefic Ketu causes abdomen problems. Grandmother or mother suffers if Saturn is malefic.",
+            "remedy": "1. Keep black dog. 2. Wear onyx or emerald."
+        },
+        "12": {
+            "prediction": "Exalted; native is wealthy and achieves a big position. Malefic Ketu results if native buys land from an issueless person or kills dogs (native becomes issueless).",
+            "remedy": "1. Worship Lord Ganesha. 2. Do not have a loose character. 3. Keep a dog."
+        }
+    }
 }
-1:{
-"point_general_1":"other planet, then the aspecting planet will become afflicted and affect adversely the persons and relatives of such aspecting planet as Karakas."
-"point_6":"In general, all planets in their Pucca Ghar, own house or exalted house give good results. A planet in inimical house or in a house of debilitation gives bad results. If a planet is not placed in his Pucca Ghar and the same is occupied by a planet inimical to such planet, then that planet will destroy the good results of the house in which he stands placed."
-"point_7":"While examining a horoscope, the 1st, 7th, 8th and 11th houses must be examined together as they are mutually interested. The planets in the ascendant is treated as a ruler and the one in the 7th acts as his minister. The planet in the 8th is the eye of that ruler, whereas the planet in the 11th house is the ruler's foot."
-"point_7_sub_1":"More planets in the 7th house than the 1st house shows that the ruler does not have required control over his minister. If the planets in the 11th house are inimical to the planets in the first house, then they will not obey the command of the ruler i.e., the results of the 11th house will be adversely affected."
-"point_7_sub_2":"The planets of the 8th house (eyes) guide the planets of the 7th house (minister) and control their actions and effects. If the planets of the 1st and 8th houses are friendly, then the planet in the 7th house can not play any mischief."
-"point_7_sub_3":"Mars in the 7th is considered to be highly conducive for gaining large property. But if mercury is in the Lagna, it will destroy the properties. It will be destroyed because of the foolishness of the native, because here the Mercury being in the first house is Karakas of the native. At the same time if the Mercury is in the 8th house, it will again destroy the properties, but here the reasons for destruction will be unknown and invisible, because the active elements of the 8th house are always secretive and mysterious in nature over which the native has no control."
-"point_7_sub_4":"Similarly, if the planets of the 1st and 11th houses destination are friendly, they will control the planets of the 7th house. If they are inimical, the results would be bad."
-"point_7_sub_5":"The planets of the 1st house aspect the planets of the 7th house. If they are mutually inimical, then the bad results accrue because of the foolishness or unworthiness of the native. The planets of the 8th house aspect the planets of the 2nd house and thereby affect their results."
-"point_8_intro":"2nd, 6th, 8th, 12th and 11th houses must also be examined simultaneously as follows :"
-"point_8a":"The planets of the 8th house aspect the 2nd house and thereby affect the results of the 2nd house. The effects of the aspects of the planets of the 8th house over the 2nd house are affected by the planets of the 11th house - favourably if friendly and unfavourably if inimical."
-"point_8b":"The planets of the 2nd house aspect the 6th house and affects its results. The planets of the 6th and 8th houses have secret relations with each other, because of which they also affect the planets of the 2nd house (+++)."
-"point_8c":"The 12th house also affects the 2nd house (+++). If there are evil planets in the 6th and 8th houses, (because of their secret/implied conjunction) their evil power increases 10 times."
-"point_8d":"If the planets in the 12th and 8th houses are inimical, the native should not visit temples and other places of worship."
-"point_9_intro":"The 3rd, 11th, 5th, 9th and 10th houses must also be examined simultaneously as follows :"
-"point_9a":"If there is any planet in the 3rd house, it will start showing effects after the birth of the native's younger brother."
-"point_9b":"If the 9th and 5th houses are occupied by Saturn Rahu or Ketu then the unfavourable changes start coming up in the native's life just after the birth of the child."
-"point_9c":"If there is no planet in the 4th house, or it is occupied by Rahu, Ketu or Saturn, then the good results of the 10th house will not be received by the native. If 10th and 2nd houses are empty, the good results of the 4th house will go waste."
-"point_9d":"If the 3rd and 9th houses are bad, the 5th will also prove bad."
-"point_9e":"If the 9th is occupied by Sun or Moon, the 5th house will give good results."
-"point_9f":"If the 9th is occupied by Sun or Moon, then Rahu or Ketu in the 5th will neither affect the issues of the native or the native himself adversely."
-"point_9g":"If Rahu or Ketu be placed in the 5th and there are inimical planets in the 8th then strokes of misfortune will hit the native through the 11th house. The relatives indicated by the planets of the 5th and 8th houses will also be affected. In this situation the earnings of the native will also be affected very adversely, if the 2nd house is empty. Nothing will be able to save the native. Now the planets of the 10th and 5th will also turn to be malefics whatever be their natural character."
-}
-2:{
-"document_title":"Sun : Effects and Remedies"
-"source_text_chapter":"The second chapter of Lal Kitab, termed as the wonder Book of Astrology, details the effects of Sun in various houses alongwith the remedies."
-"introduction_paragraph_1":"The Sun, eulogised by the author of the Lal Kitab as Vishnu, the lord of presentation, is the father of our solar system, around which all planets resolve. The power of light in the sky, the temperature of the earth, the power of presentation and progress are represented by the sun. His presence means the “day” and absence means the “night”. The soul in human body and the power of rendering bodily services to others have also been referred to the Sun - a royal planet of power, authority and finances."
-"introduction_paragraph_2":"The Sun provides good results if placed in houses 1 to 5,8,9,11 and 12. The 6th, 7th, and 10th are bad houses for the Sun. The Moon, the Jupiter and the Mars are the planets friendly to the Sun where the Saturn, Venus, Rahu and Ketu are enemies. The first is the Puekar Ghar, the permanent house and the house of exaltation of the Sun, whereas the 7th house is in the house of debilitation. The Mars in the 6th and Ketu in the 1st house make the Sun produce results of an exalted planet. If the Sun is exalted or placed in an auspicious house of a person's horoscope he is bound to rise higher and higher in power and position. If obstacles are created against him by a person that person is bound to meet his doom. Much better results are proposed if the Sun is in conjunction with Mercury."
-"introduction_paragraph_3":"The Sun gives adverse effects with the things associated with the house in which he is placed. Consequently in the 1st house he will create health problems for the native. In the 2nd house he will affect the family and its comforts absolutely adversely."
-"introduction_paragraph_4":"The Sun in the 6th house will not prove good for the sisters and daughters of the native. In the 7th he will face obstacles in the comforts of the wife. The Sun of the 8th house will saue the native from death in critical situations."
-"introduction_paragraph_5":"The Sun of the 9th house will destroy the comforts of the forefathers and perhaps deprive the native of their properties. In the 10th, the sun will affect the father adversely. The sun in the 11th increases and multiplies the income of the native manifold, if he does not augment the power of Saturn by cosumption of liquor, meat and eggs. The Sun in the 12th house destroys the comforts of the night hour sleep of the native."
-"introduction_paragraph_6":"The Sun will not be able to harm Venus when sun is being aspected by Saturn because Saturn and Venus are great friends. On the contrary, if Saturn is being aspected by Sun, then the Sun will not be afraid of Saturn and he will destroy the Venus as both are natural enemies in the house where he is placed."
-"introduction_paragraph_7":"The effects of the Sun in both the situations in different houses are as below :"
-"sun_in_1st_house_benefic_1":"The native will be fond of constructing religious buildings and digging of wells for public purposes."
-"sun_in_1st_house_benefic_2":"He will have permanent source of livelihood- more from the government. Money earned from honest sources will keep multiplying. He will believe only his eyes, not in ears."
-"sun_in_1st_house_malefic_1":"The native's father may die in early childhood. Having sex in the day time will make the wife constantly ill and have infection of tuberculosis if Venus is placed in the 7th house."
-"sun_in_1st_house_malefic_2":"Malefic Sun in the 1st house and Mars in the 5th house will cause the death of sons, one after the other."
-"sun_in_1st_house_malefic_3":"Similarly, the malefic Sun in the 1st house and Saturn in the 8th house will cause the death of wives, one after the other."
-"sun_in_1st_house_malefic_4":"If there is no planet in the 7th house the marriage before 24th year will prove lucky for the native, otherwise the 24th year of the native would prove highly disastrous for him."
-"sun_in_1st_house_remedial_measure_1":"Marry before 24th year of life."
-"sun_in_1st_house_remedial_measure_2":"Don't have sex with wife during the day time."
-"sun_in_1st_house_remedial_measure_3":"Install a hand pump for water in your ancestral house."
-"sun_in_1st_house_remedial_measure_4":"Construct small dark room in the left side at the end of your house."
-"sun_in_1st_house_remedial_measure_5":"Either of the spouse must stop eating "GUR" i.e. jaggery."
-"sun_in_2nd_house_benefic_1":"The native will be self-dependent, skilled in handiwork and would prove highly helpful to parents, maternal uncles, sisters, daughters and in-laws."
-"sun_in_2nd_house_benefic_2":"The Sun in the 2nd will become more auspicious if the Moon is placed in the 6th house."
-"sun_in_2nd_house_benefic_3":"Ketu in the 8th house will make the native very truthful."
-"sun_in_2nd_house_benefic_4":"Rahu in the 9th house makes the native a renowned artist or a painter."
-"sun_in_2nd_house_benefic_5":"Ketu in the 9th house makes him a great technician."
-"sun_in_2nd_house_benefic_6":"Mars in the 9th house makes him fashionable."
-"sun_in_2nd_house_benefic_7":"The generous nature of the native would put an end to growing enemies."
-"sun_in_2nd_house_malefic_1":"The Sun will affect very adversely the things and relatives associated with the planets inimical to the Sun i.e., wife, wealth, widows, cows, taste, mother etc. Disputes regarding wealth property and wife will spoil the native."
-"sun_in_2nd_house_malefic_2":"Never accept donations if the Moon is placed in the 8th house and the Sun in the 2nd house is not auspicious, otherwise the native will be destroyed altogether."
-"sun_in_2nd_house_malefic_3":"The Sun in the 2nd house, Mars in the 1st and Moon in the 12th house make the native's condition critical and pathetic in every manner."
-"sun_in_2nd_house_malefic_4":"Mars in the 8th house makes the native extremely greedy if the Sun in the 2nd house is inauspicious."
-"sun_in_2nd_house_remedial_measure_1":"Donate coconut, mustard oil and almonds to religious places of worship."
-"sun_in_2nd_house_remedial_measure_2":"Manage to avoid disputes involving wealth, property and ladies."
-"sun_in_2nd_house_remedial_measure_3":"Avoid accepting donations, specially rice, silver and milk."
-"sun_in_3rd_house_benefic_1":"The native will be rich, self-dependant and having younger brothers."
-"sun_in_3rd_house_benefic_2":"He will be blessed with divine grace and will earn profits intellectual by pursuits."
-"sun_in_3rd_house_benefic_3":"He will be interested in astrology and mathematics."
-"sun_in_3rd_house_malefic_1":"If the Sun is not auspicious in the 3rd house and the Moon is also not auspicious in the horo-scope, there will be daylight robbery or theft in the native's house."
-}
-3:{
-"general_condition_1":"If the 9th house is afflicted, the forefathers would have been poor."
-"general_condition_2":"If the 1st house is afflicted, the neighbours of the native will be destroyed."
-"sun_in_4th_house_benefit_1":"The native will be wise, kind and a good administrator. He will have constant source of income. He will leave a legacy of great riches for his offsprings after death."
-"sun_in_4th_house_benefit_2":"If the Moon is with the Sun in the 4th house, the native will earn great profit through certain new researches."
-"sun_in_4th_house_benefit_3":"The Mercury in the 10th or 4th house will make such a native a renowned trader."
-"sun_in_4th_house_benefit_4":"If Jupiter is also with the Sun in the 4th house, the native will make good profits through gold and silver trade."
-"sun_in_4th_house_malefic_1":"The native becomes greedy, inclined to commit theft and likes to harm others. This tendency ultimately produces very bad results."
-"sun_in_4th_house_malefic_2":"If the Saturn is placed in the 7th house he becomes victimised by night blindness."
-"sun_in_4th_house_malefic_3":"If the Sun is inauspicious in the 7th house and mars is placed in the 10th house, the native's eye will become seriously defective, but his fortunes will not dwindle."
-"sun_in_4th_house_malefic_4":"The native will become impotent if the Sun in the 4th is inauspicious and the Moon is placed in the 1st or 2nd house, the Venus is in the 5th and Saturn is in the 7th house."
-"sun_in_4th_house_remedial_measures_1":"Distribute alms and food to the needy people."
-"sun_in_4th_house_remedial_measures_2":"Do not take up business associated with iron and wood."
-"sun_in_4th_house_remedial_measures_3":"Business associated with gold, silver, cloth will give very good results."
-"sun_in_5th_house_benefit_1":"The progress and prosperity of family and children will be assured. If the Mars is placed in the 1st or 8th house and Rahu, Ketu, Saturn are placed in 9th and 12th houses, the native will lead king's life."
-"sun_in_5th_house_benefit_2":"If in 5th house placed with any planet inimical to sun, the native will be bestowed hour by the government everywhere."
-"sun_in_5th_house_benefit_3":"If Jupiter is placed in 9th or 12th house, the enemies will be destroyed, but this position will not be good for children of the native."
-"sun_in_5th_house_malefic_1":"If the Sun in the 5th is inauspicious and Jupiter is in 10th, the wife of the native will die and wives in subsequent marriages will also die."
-"sun_in_5th_house_malefic_2":"If the Sun in the 5th house is inauspicious and Saturn is placed in 3rd, sous of the native will die."
-"sun_in_5th_house_remedial_measures_1":"Do not delay in having a child."
-"sun_in_5th_house_remedial_measures_2":"Build your kitchen in the eastern portion of your house."
-"sun_in_5th_house_remedial_measures_3":"Drop a lit the quantity of mustard oil on the ground continuously for 43 days."
-"sun_in_6th_house_benefit_1":"Native will be lucky, prone to anger, will have beautiful spouse and will benefit from that government."
-"sun_in_6th_house_benefit_2":"If Sun is in the 6th house and Moon, Mars and Jupiter in the 2nd house, following tradition will be beneficial."
-"sun_in_6th_house_benefit_3":"If sun is in 6th house and Ketu in 1st or 7th house then the native will have a son and after the 48th year great fortune will follow."
-"sun_in_6th_house_malefic_1":"The native's son and maternal family will face bad times. Will also affect native health adversely."
-"sun_in_6th_house_malefic_2":"If there is a no planet in the 2nd house, the native will get a government job in the 22nd year of his life."
-"sun_in_6th_house_malefic_3":"If Mars is placed in the 10th house the native's sons will die one after the other."
-"sun_in_6th_house_malefic_4":"Mercury in the 12th house causes high blood pressure."
-"sun_in_6th_house_remedial_measures_1":"Ancestral customs and ritu als should be strictly followed; otherwise the family progress and happiness will be destroyed."
-"sun_in_6th_house_remedial_measures_2":"Underground furnaces should not be constructed with in the premises of the house."
-"sun_in_6th_house_remedial_measures_3":"After taking dinner blow off the fire of the kitchen stove by sprinkling milk over it."
-"sun_in_6th_house_remedial_measures_4":"Always keep Gangajal in the premises of your house."
-"sun_in_6th_house_remedial_measures_5":"Offer wheat or Gur to monkeys."
-"sun_in_7th_house_benefit_1":"If Jupiter, Mars or Moon are placed in the 2nd house, the native will occupy a ministerial position in the government."
-"sun_in_7th_house_benefit_2":"If the Mercury is exalted or Mercury in the 5th or 7th house is aspected by Mars, the native will have unending sources of income."
-"sun_in_7th_house_malefic_1":"If the Sun is inauspicious in the 7th house and Jupiter, venus or any malefic planet is placed in the 11th house and Mercury is malefic in any other house, the native will encounter the death of several members of his family together. Obstacles from the government, diseases like tuberculosis and asthma will victimise the native. Incidents of fire, emberlement and other family troubles will madden the native who may go to the extent of becoming a recluse or committing suicide."
-"sun_in_7th_house_malefic_2":"Malefic Sun in the 7th and Mars or Saturn in the 2nd or 12th house and Moon in the 1st house cause leprosy or lucoderma."
-"sun_in_7th_house_remedial_measures_1":"Lessen the amount of salt intake."
-"sun_in_7th_house_remedial_measures_2":"Start any work after taking a little sweet with water."
-}
-4:{
-"general_point_1":"Offer a little piece of chapati to the fire of the kitchen before taking your meals."
-"general_point_2":"Serving and rearing up a black cow or a cow without horns, but make sure that the cow is not white."
-"sun_8th_house_benefic_1":"Government favours will accrue from the 22nd year of life."
-"sun_8th_house_benefic_2":"Here the Sun makes the native truthful, saintly and king like. Nobody would be able to harm him."
-"sun_8th_house_malefic_1":"Mercury in the 2nd house will create economic crisis."
-"sun_8th_house_malefic_2":"Native will be short tempered, impatient & will have ill health."
-"sun_8th_house_remedial_measure_1":"Never keep a white cloth in the house."
-"sun_8th_house_remedial_measure_2":"Never live in the house facing south."
-"sun_8th_house_remedial_measure_3":"Always eat something sweet and drink water before starting any new work."
-"sun_8th_house_remedial_measure_4":"Throw copper coins in a burning pyre (Chita) whenever possible."
-"sun_8th_house_remedial_measure_5":"Throw Gur (jaggery) in running water."
-"sun_9th_house_benefic_1":"Native will be lucky, good natured will have good family life and will always help others."
-"sun_9th_house_benefic_2":"If Mercury is in the 5th house, the native will have fortune after 34 years."
-"sun_9th_house_malefic_1":"Native will be evil and troubled by his brothers."
-"sun_9th_house_malefic_2":"Disfavour from government and loss of reputation."
-"sun_9th_house_remedial_measure_1":"Never accept articles of silver as gifts or donation. Donate silver articles frequently."
-"sun_9th_house_remedial_measure_2":"Ancestral pots and utensils of brass must be used and not sold."
-"sun_9th_house_remedial_measure_3":"Avoid extreme anger and extreme softness."
-"sun_10th_house_benefic_1":"Benefits and favours from government, good health and financially stronger."
-"sun_10th_house_benefic_2":"The native will get a government job and comforts of vehicles and servants."
-"sun_10th_house_benefic_3":"The native will always be suspicious about others."
-"sun_10th_house_malefic_1":"If the Sun is in the 4th house, the native's father will die in his childhood."
-"sun_10th_house_malefic_2":"If the Sun is in the 10th house and moon is in the 5th house the native will have a very short life."
-"sun_10th_house_malefic_3":"If the 4th house is without any planet, the native will be deprived of government favours and benefits."
-"sun_10th_house_remedial_measure_1":"Never wear blue or black clothes."
-"sun_10th_house_remedial_measure_2":"Throwing a copper coin in a river or canal for 43 years will be highly beneficial."
-"sun_10th_house_remedial_measure_3":"Abstain from liquor and meat."
-"sun_11th_house_benefic_1":"If the native is vegetarian he will have three sons and will himself be head of the house and will get benefits from government."
-"sun_11th_house_malefic_1":"The Moon is in the 5th house and the Sun is not aspected by good planets, the will have a short life span."
-"sun_11th_house_remedial_measure_1":"Abstain from meat and wine."
-"sun_11th_house_remedial_measure_2":"Keep almonds or radishes near the head of the bed and offer it in the temple next day for long life and children."
-"12th_house_benefic_1":"If Ketu in the 2nd house the native will earn wealth after 24 years and will have good family life."
-"12th_house_benefic_2":"If Venus and Mercury are together their then one will benefit from business and the native will always have steady source of income."
-"12th_house_malefic_1":"Native will suffer from depression, financial loss from machineries and will be punished by the government."
-"12th_house_remedial_measure_1":"Native should always have a courtyard in his house."
-"12th_house_remedial_measure_2":"One should be religious and truthful."
-"12th_house_remedial_measure_3":"Keep a Chakki in the house."
-"12th_house_remedial_measure_4":"Always forgive your enemies."
-}
-5:{
-"title":"3. Moon : Effects and Remedies"
-"introduction_paragraph_1":"As explained in the preceding issue, the Sun is regarded as the generator of power that gives spirit and life to all planets, the Moon is considered to be the conductor of power lent by Sun and rules over the lives of the individuals on this earth. Sun represents individuality, whereas Moon shows one's personality."
-"moon_governs_paragraph_2":"Moon governs over impregnation, conception, birth of a child and the animal instinct. She represents mother, mother's family, grandmother, old women, horse, navigation, agricultural land, Lord Shiva, love, kindness, mental peace, heart, services rendered for other's welfare and the 4th house."
-"moon_effect_houses_paragraph_3":"The Moon's effect comes up in the 16th, 51st and 86th year of the native and similarly its 1st cycle falls in the 24th year, the 2nd in the 49th year and the 3rd cycle falls in the 94th year of the native. The Jupiter, Sun and Mars are Moon's friends, whereas Saturn, Rahu and Ketu are inimical to her. For her protection, the Moon sacrifices her friendly planets - Sun, Mars or Jupiter. Moon is the Lord of 4th house, stands exalted in the 2nd house of Taurus and becomes debilitated in the 8th house of Scorpio. The Moon provides very good results if placed in houses 1, 2, 3, 4, 5, 7 and 9 whereas the 6th, 8th, 10th, 11th and 12th houses are bad for the Moon. The death of a domestic milch animal or a horse, drying up of a person's well or pond, the loss of the senses of touching and feeling are the signs of moon turning malefic."
-"ketu_4th_house_paragraph_4":"The placement of the Ketu in the 4th house causes Matri Rina i.e. mother's debt. In such a situation pieces of silver of equal weight and size be collected from every member of the family and the same should be thrown together into the running water of a river. Consequently all the ill effects would be warded off."
-"moon_in_1st_house_section_title":"Moon in 1st House"
-"moon_in_1st_house_description_1":"In general, the 1st house belongs to Mars and Sun. When the moon is also placed therein, this house will come under the combined influences of the Mars, the Sun and the Moon i.e. all the 3 mutual friends will be treated as occupants of this house. The Sun and Mars will extend all friendly support to their natural friend Moon placed on the throne i.e. the ascendant house."
-"moon_in_1st_house_description_2":"Such native will be soft-hearted and will inherit all the traits and qualities of his mother. He will be either the eldest brother or will certainly be treated so. As long as the native receives the blessings of his mother and keeps her happy, he will continue to rise and prosper in every way."
-"moon_in_1st_house_description_3":"The things and the relatives as represented by Mercury, who is inimical to Moon, will prove harmful to the native, e.g., the sister-in-law and the green color will affect adversely. Hence it is better to keep away from them."
-"moon_in_1st_house_description_4":"Burning milk (for making Khoya) or selling milk for profit would reduce or minimize the power of the Moon placed in the 1st house, which means that the native's life and property would be destroyed if he engages himself in such activities. Such a native should save water with water and milk freely for long life and all round prosperity. Such a native will get a life of about 90 years and will be bestowed with honours and fame by the Govt."
-"moon_in_1st_house_remedies_title":"Remedies"
-"moon_in_1st_house_remedy_1":"Do not marry between the age of 24 and 27 years, i.e., marry either before 24 years of age or after 27 years of age."
-"moon_in_1st_house_remedy_2":"Do not build a house out of your earnings between 24 and 27 years of age."
-"moon_in_1st_house_remedy_3":"Keep away from the green colour and sister-in-law. Do not keep a silver pot or kettle with a snout (Toti) in it in the house."
-"moon_in_1st_house_remedy_4":"Offer water to the roots of a Banyan tree whenever you can afford."
-"moon_in_1st_house_remedy_5":"Insert copper nails on the four corners of your bed."
-"moon_in_1st_house_remedy_6":"Whenever crossing a river, always throw coins in it for the welfare of your children."
-"moon_in_1st_house_remedy_7":"Always keep a silver Thali in your house."
-"moon_in_1st_house_remedy_8":"Use Silver pots for drinking water or milk and avoid the use of glassware for the same."
-"moon_in_2nd_house_section_title":"Moon in 2nd House"
-"moon_in_2nd_house_description_1":"The results of the 2nd house, when Moon is placed therein, will be influenced by Jupiter, Venus and the Moon, because this is the Puckka Ghar, the permanent house of Jupiter and Venus is the lord of the second Rashi Taurus. The Moon gives very good results in this house, as it becomes very strong here because of the friendly support of Jupiter against Venus."
-"moon_in_2nd_house_description_2":"Such a native may not have sisters, but will certainly be having brothers. In case he doesn't have, his wife will certainly have brothers. He will certainly receive his due share in parental properties. Whatever be the planetary position otherwise, but the Moon here will ensure male offspring to the native."
-"moon_in_2nd_house_description_3":"The native will receive good education, which will add to his fortune. The Business associated with the things of the Moon will prove highly advantageous. He may be a reputed teacher also."
-"moon_in_2nd_house_description_4":"The Ketu placed in the 12th house will cause eclipse of the Moon here, which will deprive the native either of good education or of male children."
-"moon_in_2nd_house_remedies_title":"Remedies"
-"moon_in_2nd_house_remedy_1":"Temple within the native's house may deprive the native of male issue."
-"moon_in_2nd_house_remedy_2":"The things associated with the Moon, i.e., silver, rice, non-cemented floor of the house, the mother and old women and their blessings will prove very lucky for the native."
-"moon_in_2nd_house_remedy_3":"Offering green colour clothes to small girls continuously for 43 days."
-"moon_in_2nd_house_remedy_4":"Place the things associated with the Moon into the foundation of your house, e.g., a square piece of silver."
-"moon_in_3rd_house_section_title":"Moon in 3rd House"
-"moon_in_3rd_house_description_1":"The results of the 3rd house, when the Moon is placed therein, will be influenced by the Mars, Mercury and Moon. Here the Moon proves highly beneficial to ensure a long life and great wealth or riches for the native."
-"moon_in_3rd_house_description_2":"If there are no planets in the 9th and 11th houses, then Mars and Venus will give good results to the native because of the Moon being in the 3rd house."
-"moon_in_3rd_house_description_3":"With the advancement of the native's education and learning, the economic condition of his father will deteriorate, but without affecting his education adversely. If Ketu's placing in the horoscope is auspicious and not harming the Moon in the 3rd, the education of the native will bear good fruits and prove advantageous in every manner."
-"moon_in_3rd_house_description_4":"If the Moon is malefic, it will cause great loss of wealth and money at the age of the malefic planet placed in the 9th house."
-"moon_in_3rd_house_remedies_title":"Remedies"
-"moon_in_3rd_house_remedy_1":"Offer in donation the things associated with the Moon, e.g., silver or rice, after the birth of a"
-}
-6:{
-"general_point_1":"Daughter and the things associated with the Sun e.g., wheat and jaggery when a son is born."
-"general_point_2":"Do not make use of your daughter's money and wealth."
-"general_point_3":"To avoid the evil effects of a malefic planet in the 8th house, serve the guests and others by offering them milk and water freely."
-"general_point_4":"Worshipping Goddess Durga and obtaining the blessings of small girls by touching their feet after serving them food and sweets."
-"moon_in_4th_house_description_1":"The results of the 4th house are the general product of the total influences of Moon, the lord of the 4th Rashi Cancer and the permanent resident of the 4th house. Here the Moon becomes very strong and powerful in every manner."
-"moon_in_4th_house_description_2":"The use of, and association with the things represented by the Moon will prove highly beneficial to the native. Offer milk in place of water to the guests. Obtain blessings of your mother or the elderly women by touching their feet. The 4th house is the river of income which will continue to increase expenditure. In other words, expenditure will augment income."
-"moon_in_4th_house_description_3":"The native will be a reputed and honoured person with soft heart and all sorts of riches. He will inherit all the traits and qualities of his mother and will face the problems of life boldly like a lion. He will receive honour and favours from the government along with riches and will provide peace and shelter to others."
-"moon_in_4th_house_description_4":"Good education will be ensured for the native. If Jupiter is placed in the 6th house and Moon in the 4th, parental profession will suit him. If a person has mortgaged certain valuables to the native, he will never come back to demand it."
-"moon_in_4th_house_description_5":"If Moon be placed with 4 planets in the 4th house, the native will be economically very strong and wealthy. The male planets will help the native like sons and the female planets like daughters."
-"moon_in_4th_house_remedy_1":"Selling of milk for profit and burning of milk for making Khoya, etc., will have a very adverse effects on income, life span and mental peace."
-"moon_in_4th_house_remedy_2":"Adultery and flirtation will be seriously detrimental to the native's reputation and prospects of wealth gains."
-"moon_in_4th_house_remedy_3":"The more the expenses, the more the income."
-"moon_in_4th_house_remedy_4":"Before beginning any auspicious or new work, place a pitcher or any container filled with milk in the house."
-"moon_in_4th_house_remedy_5":"For warding off the evil generated by the Jupiter placed in the 10th house, the native should visit places of worship along with his grandfather and offer their oblations by placing their forehead at the feet of the deity."
-"moon_in_5th_house_description_1":"The results of the 5th house, when the Moon is placed therein, will be influenced by the Sun, the Ketu and the Moon. The native will adopt just and right means to earn wealth and will not yield to wrong doing. He may not do well in business but certainly receive favours and honours from the government. Anyone supported by him will win."
-"moon_in_5th_house_description_2":"The Moon in the 5th house will give 5 sons if the Ketu is well placed and benefic even if the Moon is joined by malefic planets. By his education and learning the native will undertake several measures for others welfare, but the others will not do good to him."
-"moon_in_6th_house_description_1":"Further, the native will be destroyed if he becomes greedy and selfish. If he fails to keep his plans a secret, his own men will damage him seriously."
-"moon_in_6th_house_remedy_1":"Keep control over your tongue. Never use abusive language to ward off troubles."
-"moon_in_6th_house_remedy_2":"Avoid becoming greedy and over selfish."
-"moon_in_6th_house_remedy_3":"Deceit and dishonesty towards others will affect you adversely."
-"moon_in_6th_house_remedy_4":"Acting upon the advice of another person before trying to harm anybody will ensure very good results and a life of about 100 years."
-"moon_in_6th_house_remedy_5":"Public service will enhance income and reputation of the native."
-"moon_in_6th_house_description_2":"This house is affected by the Mercury and Ketu. The Moon in this house will be affected by the planets placed in the 2nd, 8th, 12th and 4th houses. The native will receive education with obstacles and will have to struggle a lot for reaping the benefits of his educational achievements."
-"moon_in_6th_house_description_3":"If the Moon is placed in the 6th, 2nd, 4th, 8th and 12th houses it is auspicious. The native would enliven a dying person by putting a few drops of water in his mouth."
-"moon_in_6th_house_description_4":"But if the Moon is malefic in the 6th house and Mercury is placed in the 2nd or 12th house, the native will have suicidal tendencies. Similarly, if the Moon is malefic and the Sun is placed in the 12th house, then the native or his wife or both will have severe eye defects and troubles."
-"moon_in_6th_house_remedy_6":"Serve milk to your father with your own hands."
-"moon_in_6th_house_remedy_7":"Never take milk during night. But intake of milk during day time and use of even curd and cheese during night is permissible."
-"moon_in_6th_house_remedy_8":"Do not offer milk as donation. It can be given only at religious places of worship."
-"moon_in_6th_house_remedy_9":"Digging of wells for public will destroy the issues, but digging of wells in a hospital or within the premises of cremation ground will not be harmful."
-"moon_in_7th_house_description_1":"The 7th house belongs to Venus and Mercury. When the Moon is placed here, the results of this house will be affected by the Venus, Mercury and Moon. Venus and Mercury combined together give the effects of the Sun. The 1st house aspects the 7th house. Consequently the rays of the Sun from the 1st house would be enlightening the Moon if placed in the 7th, which means that the things and the relatives represented by the Moon will provide highly beneficial and good results."
-"moon_in_7th_house_description_2":"Educational achievements will prove fruitful for earning money or wealth. He may or may not have properties but will certainly have cash money in hand always. He will have good potential for being a poet or astrologer, or else he will be characterless and will have great love for mysticism and spiritualism."
-"moon_in_7th_house_description_3":"The 7th Moon also denotes conflict between the native's wife and mother, adverse effects in milk trade. Disobedience towards mother will cause overall tensions and troubles."
-"moon_in_7th_house_remedy_1":"Avoid marriage in the 24th year of your life."
-"moon_in_7th_house_remedy_2":"Always your mother keep happy."
-}
-7:{
-"moon_in_8th_house_description":"This house belongs to Mars and Saturn. The Moon here affects the education of the native adversely, but if education goes well the native's mother's life will be shortened and very often such a native loses both -education and the mother. However, the evil effects of the Moon in the 7th house will be mitigated if Jupiter and Saturn be placed in the 2nd house. The 7th Moon often deprives the native of his parental properties. If there is a well or pond adjacent to the parental property of the native, he will receive adverse results of the Moon all through his life."
-"moon_in_8th_house_remedy_1":"Avoid gambling and flirting."
-"moon_in_8th_house_remedy_2":"Perform Shraddha ceremony for to your ancestors."
-"moon_in_8th_house_remedy_3":"Do not build any house after covering a well with roof."
-"moon_in_8th_house_remedy_4":"Obtain blessings of the old men and children by touching their feet."
-"moon_in_8th_house_remedy_5":"Bring water from the well or water tap situated within the boundaries of a cremation ground and place it within your house. It will ward off all the evils generated by the Moon in the 7th house."
-"moon_in_8th_house_remedy_6":"Offer gram and pulse in places of worship."
-"moon_in_9th_house_description":"The 9th house belongs to Jupiter, who is a great friend of the Moon. Hence the native will imbibe the traits and features of both these planets - good conduct, soft heartedness, religious bent of mind and love for virtuous acts and pilgrimage. He will live upto 75 years. A friendly planet in the 5th house will augment comforts and pleasures from the son and develops intense interest in religious deeds. A friendly planet in the 3rd house ensures great increase in money and wealth."
-"moon_in_9th_house_remedy_1":"Install the things associated with the Moon within the house, e.g., place a square piece of silver in the almirah."
-"moon_in_9th_house_remedy_2":"Serve the labourers with milk."
-"moon_in_9th_house_remedy_3":"Offer milk to snakes and rice to fish."
-"moon_in_10th_house_description":"The 10th house is in every manner ruled by Saturn. This house is aspected by the 4th house, which is similarly ruled by Moon. Hence the Moon in the 10th house ensures a long life of about 90 years for the native. Moon and Saturn are inimical, therefore, medicines in liquid form will always prove harmful to him. The milk will act as poison if taken during night. If he is a medical practitioner, dry medicines administered by him to the patient will have a magical effect for cure. If a surgeon, he will earn great wealth and fame for surgery. If the 2nd and 4th houses are empty money and wealth will rain on him. If Saturn is placed in the 1st house, the native's life will be destroyed by the opposite sex, especially a widow."
-"moon_in_10th_house_remedy_1":"Visits to religious places of worship will enhance the fortune of the native."
-"moon_in_10th_house_remedy_2":"Store the natural water of rain or the river in a container and keep it within your house for 15 years. It will wash off the poisons and evil effects generated by the Moon in the 10th house."
-"moon_in_10th_house_remedy_3":"Avoid taking milk during night."
-"moon_in_10th_house_remedy_4":"Milch animals can neither live long in your house nor will they prove beneficial or auspicious."
-"moon_in_10th_house_remedy_5":"Abstain from wine, meat and adultery."
-"moon_in_11th_house_description":"This house is strongly influenced by Jupiter and Saturn. Every planet placed in this house will destroy its inimical planets and the things associated with them. In this way the Moon here will destroy its enemy Ketu's things, i.e., the sons of the native. Here the Moon will have to face the combined power of its enemies Saturn and Ketu which will weaken the Moon. Now if Ketu is placed in the 4th house, the life of the native's mother will be endangered. The business associated with Mercury will also prove harmful. Starting house construction or purchase of a house on Saturdays will strengthen the Saturn (the Moon's enemy) which will prove disastrous for the native. Kanyadan after the midnight and participating in any marriage ceremony on Fridays will damage the fortunes of the native."
-"moon_in_11th_house_remedy_1":"Offer milk in Bhairo Mandir and donate milk to others liberally."
-"moon_in_11th_house_remedy_2":"Ensure that the grandmother does not see her grandson."
-"moon_in_11th_house_remedy_3":"Heat up a piece of gold in fire and put it in a glass of milk before drinking it."
-"moon_in_11th_house_remedy_4":"Throw 125 pieces of sweet (Peda) in a river."
-"moon_in_12th_house_description":"This house belongs to Moon's friend Jupiter. Here the Moon will have good effects on Mars and the things associated with Mars, but it will harm its enemies Mercury and Ketu and the things associated with them. Hence the business and things associated with the house in which Mars is placed will provide highly beneficial effects. Similarly, the business and things associated with the house where Mercury and Ketu are placed will be strongly damaged. The Moon in the 12th houses causes a general fear in the native's mind about numerous unforeseen troubles and dangers and thus destroys his sleep and peace of mind. Ketu in the 4th house will become weak and affect the native's son and mother very adversely."
-"moon_in_12th_house_remedy_1":"Wearing Gold in ears, drinking milk after inserting hot piece of gold in it and visiting religious places of worship will ward off the evils of the Moon in 12th house and also that of the Ketu in the 4th house."
-"moon_in_12th_house_remedy_2":"Never offer milk and food to religious saints/sadhus."
-"moon_in_12th_house_remedy_3":"Do not open a school, college or any other educational institute and do not help children in obtaining free of cost education."
-}
-8:{
-"document_title":"Mars: Effects And Remedies"
-"mars_nature_description":"Mars is a dry, red and fiery planet. Masculine by nature it signifies energy, both constructive and destructive depending upon his position as Mars positive and Mars negative."
-"mars_positive_condition":"If Sun and Mercury are placed together in one house, Mars would be positive."
-"mars_negative_condition":"If Saturn and Sun are placed in one house Mars becomes negative."
-"mars_extremes_behavior":"Mars acts on the extremes - either soft like a wax or hard like a stone."
-"mars_friends":"The Sun, Moon and Jupiter are his friends."
-"mars_enemies":"Mercury and Ketu are his enemies."
-"mars_neutral_planets":"Rahu and Saturn are neutral to Mars."
-"mars_first_cycle_age_range":"28 and 33"
-"mars_second_cycle_age_range":"63 and 68"
-"mars_third_cycle_age_range":"98 and 103"
-"mars_own_houses":"1st and 8th houses"
-"mars_exalted_house":"10th house of his debilitation"
-"mars_malefic_houses":"4th and 8th houses"
-"mars_benefic_houses":"1, 2, 3, 5, 6, 7, 9, 10, 11 and 12th houses"
-"mars_significator_of":"sex, brothers, land and property"
-"mars_rules_over":"animal instincts in man"
-"benefic_mars_effects":"offers self confidence, sharp wit, faculty of argumentation and adventurous spirit, strong determination and qualities of leadership in all human pursuits"
-"weak_afflicted_mars_effects":"makes the native lose temper quickly, fool hardy, quarrelsome and brutal. Such a Mars makes the native a sexual pervert."
-"lal_kitab_general_effects_remedial_measures_intro":"The general effects and remedial measures of Mars according to Lal Kitab can be delineated as follows:"
-"mars_in_1st_house_effect_1":"makes the native good natured, truthful and richer from the 28th year of age"
-"mars_in_1st_house_effect_2":"wins favours from the government and victory against the enemies without much effort"
-"mars_in_1st_house_effect_3":"earns large profits from the business associated with Saturn i.e., iron, wood, machinery etc. and the relatives represented by Saturn i.e., nephews, grandsons, uncles etc."
-"mars_in_1st_house_effect_4":"Spontaneous curses from the mouth of such a native will never go waste."
-"mars_in_1st_house_effect_5":"Association of Saturn with Mars provides physical trouble to the native."
-"mars_in_1st_house_remedy_1":"Avoid the acceptance of things free of cost or in charity."
-"mars_in_1st_house_remedy_2":"Avoid evil deeds and telling lies."
-"mars_in_1st_house_remedy_3":"Association with saints and Faqirs will prove very harmful."
-"mars_in_1st_house_remedy_4":"Things of ivory will give very adverse effects. Avoid them."
-"mars_in_2nd_house_effect_1":"native is generally the eldest issue of his parents, or else he or she would always like to be treated so."
-"mars_in_2nd_house_effect_2":"living and behaving like a younger brother would prove highly beneficial and ward off several evils automatically."
-"mars_in_2nd_house_effect_3":"provides great wealth and properties from the 'in-laws' family."
-"mars_in_2nd_house_effect_4":"Mars negative here makes the native a snake in disguise for others and causes his death in war or quarrels."
-"mars_in_2nd_house_effect_5":"Mars with Mercury in the 2nd house weakens the will power and undermines the importance of the native."
-"mars_in_3rd_house_effect_1":"The 3rd house is associated with Mars and Mercury, who provide brothers and sisters to the native i.e., he will not be the only issue of his parents."
-"mars_in_3rd_house_effect_2":"Others will be highly benefited from the native, but he will not be able to receive benefit from others."
-"mars_in_3rd_house_effect_3":"Humbleness will bring rewards."
-"mars_in_3rd_house_effect_4":"In-laws will become richer and richer after the native's marriage."
-"mars_in_3rd_house_effect_5":"The native believes in the principle "eat, drink and be merry" and suffers from blood disorders."
-"mars_in_3rd_house_remedy_1":"Be soft hearted and avoid arrogance. Be good to brothers for prosperity."
-"mars_in_3rd_house_remedy_2":"Keep articles of ivory with you."
-"mars_in_3rd_house_remedy_3":"Put on silver ring in the left hand."
-"mars_in_4th_house_effect_1":"The 4th house is overall the property of Moon."
-"mars_in_4th_house_effect_2":"The fire and heat of Mars in this house burns the cold water of Moon i.e., the properties of the Moon are adversely affected."
-"mars_in_4th_house_effect_3":"The native loses peace of mind and suffers from jealousy to others."
-"mars_in_4th_house_effect_4":"He always misbehaves with his younger brothers."
-"mars_in_4th_house_effect_5":"The native's evil mission gets strong destructive powers."
-"mars_in_4th_house_effect_6":"Such a native affects the life of his mother, wife, mother-in-law etc very adversely."
-"mars_in_4th_house_effect_7":"His anger becomes the cause of his overall destruction in various aspects of life."
-"mars_in_4th_house_remedy_1":"Offer sweet milk to the roots of a banyan tree and put that wet soil on your navel."
-"mars_in_4th_house_remedy_2":"To avoid havoc from fire, place empty bags of sugar on the roof of your house, shop or factory."
-"mars_in_4th_house_remedy_3":"Always keep a square piece of silver with you."
-"mars_in_4th_house_remedy_4":"Keep away from black, one-eyed or disabled person."
-"mars_in_5th_house_effect_1":"The 5th house belongs to the Sun, who is a natural friend of Mars."
-"mars_in_5th_house_effect_2":"Hence Mars ensures very good results in this house."
-"mars_in_5th_house_effect_3":"The sons of the native become instruments of wealth and fame for him."
-"mars_in_5th_house_effect_4":"His prosperity increases manifold after the birth of sons."
-"mars_in_5th_house_effect_5":"The things and relatives represented by Venus and Moon will prove beneficial in every manner."
-"mars_in_5th_house_effect_6":"Someone of his forefathers must have been a doctor or Vaidya."
-"mars_in_5th_house_effect_7":"The prosperity of the native will continue to grow more and more with the growth in age."
-"mars_in_5th_house_effect_8":"But romance and emotional affairs with the opposite sex will prove highly disastrous for the native, which will destroy his mental peace and night sleep too."
-"mars_in_5th_house_remedy_1":"Maintain a good moral character."
-}
-9:{
-"general_remedy_1":"Keep water in a pot below the head side of your bed at night and drop it in a flower pot in the morning."
-"general_remedy_2":"Offer Shradha to your ancestors and plant a Neem tree in the house."
-"mars_in_6th_house_description":"This house belongs to Mercury and Ketu. Both are mutual enemies and inimical to Mars also. Hence Mars in this house will keep himself away from both. The native will be courageous, adventurous, lover of justice and powerful enough to set fire into water. He will be highly benefited by the trade and business associated with Mercury. His pen will wield more power than the sword. If Sun, Saturn and Mars are placed together in one house, the brothers, mother, sisters and wife will be affected very adversely."
-"mars_in_6th_house_remedy_1":"Distribute salt in place of sweets on the birth of a male child."
-"mars_in_6th_house_remedy_2":"His brothers should keep the native happy by offering him something or the other for their protection and prosperity. But if he does not accept such things, the same should be thrown in water."
-"mars_in_6th_house_remedy_3":"The male children of the native should not wear gold."
-"mars_in_6th_house_remedy_4":"Adopt remedies of Saturn for family comfort. Worship Ganeshji for parents' health and destruction of enemies."
-"mars_in_7th_house_description":"This house belongs to the influences of Venus and Mercury, who combined together provide the effect of Sun. If Mars is placed therein, the 7th house will be affected by Sun and Mars both, which ensures that the native's ambition will be fulfilled. Wealth, property and family will increase. But if Mercury is also placed here alongwith Mars, very adverse results will follow regarding the things and relations represented by Mercury e.g., sister, sister-in-law, nurses, maid servant, parrot, goats etc. Hence it would be better to keep away from them."
-"mars_in_7th_house_remedy_1":"Place solid piece of silver in the house for prosperity."
-"mars_in_7th_house_remedy_2":"Always offer sweets to daughter, sister, sister-in-law and widows."
-"mars_in_7th_house_remedy_3":"Repeatedly build a small wall and destroy it."
-"mars_in_8th_house_description":"The 8th house belongs to Mars and Saturn, who jointly influence the properties of this house. No planet is considered good in this house. Mars here affects very adversely the younger brothers of the native. The native sticks to commitments made by him without caring for profit or loss."
-"mars_in_8th_house_remedy_1":"Obtain blessings of widows and wear a silver chain."
-"mars_in_8th_house_remedy_2":"Offer sweet loaves of bread prepared on Tandoor to dogs."
-"mars_in_8th_house_remedy_3":"Take your meals in the kitchen."
-"mars_in_8th_house_remedy_4":"Build a small dark room at the end of your house and do not allow sun light to enter it."
-"mars_in_8th_house_remedy_5":"Offer rice, jaggery and gram pulse at religious places of worship."
-"mars_in_8th_house_remedy_6":"Fill an earthern pot with 'Deshi Khand' and bury it near a cremation ground."
-"mars_in_9th_house_description":"This house belongs to Jupiter, a friend of Mars. Mars placed in this house will prove good in every manner to the native by virtue of the help and blessings of the elders. His brother's wife proves very fortunate for him. Generally he will have as many brothers as his father had. Living with brothers in a joint family will enhance all round happiness. The native will gain a highly prestigious administrative post upto the 28th year of his age. He may earn large profits in the trade of goods associated with warfare."
-"mars_in_9th_house_remedy_1":"Obedience to elder brother."
-"mars_in_9th_house_remedy_2":"Render services to your Bhabhi i.e., brother's wife."
-"mars_in_9th_house_remedy_3":"Do not become an atheist and follow your traditional customs and rituals."
-"mars_in_9th_house_remedy_4":"Offer rice, milk and jaggery at religious places of worship."
-"mars_in_10th_house_description":"This is the best position of Mars in a horoscope, the place of his exaltation. If the native is born in a poor family, his family will become rich and affluent after his birth. If he is born in a rich family, his family will grow richer and richer after his birth. If the native is the eldest brother he will gain a more distinct recognition and reputation in society. He will be bold, courageous, healthy and competent enough to set traditions, norms and rules in society. However, if malefic planets Rahu, Ketu and Saturn or Venus and Moon are placed in the 2nd house, the aforesaid beneficial effects are reduced. Further if a friendly planet is placed in the 3rd house, it will also affect the results of Mars in the 10th house adversely. If Saturn is placed in the 3rd house, the native will gain huge wealth and large properties in the later part of his life along with a kingly position. Mars in the 10th house but no planet in the 5th house provides all round prosperity and happiness."
-"mars_in_10th_house_remedy_1":"Do not sell ancestral property and gold of the house."
-"mars_in_10th_house_remedy_2":"Keep a pet deer in your house."
-"mars_in_10th_house_remedy_3":"While boiling milk, please ensure that it should not overflow and fall on the fire."
-"mars_in_10th_house_remedy_4":"Offer help to one-eyed and childless persons."
-"mars_in_11th_house_description":"Mars gives good results in this house, because this house is influenced by Jupiter and Saturn. If Jupiter is in exalted position, Mars gives very good results. Native is courageous and just and usually a trader."
-"mars_in_11th_house_remedy_1":"One should never sell one's ancestral property."
-"mars_in_11th_house_remedy_2":"Keeping Sindoor or honey in an earthen pot will give good results."
-"mars_in_12th_house_description":"This house is inhabited by Jupiter, so now both Mars and Jupiter will give good results. This is also considered as the "Pukka Ghar" of Rahu, so now Rahu will not trouble the native notwithstanding its position in native's horoscope."
-}
-10:{
-"page1_title":"Remedies"
-"page1_remedy_1":"Take honey the first thing in the morning."
-"page1_remedy_2":"Eating sweets and offering sweets to another person will increase the wealth of the native."
-"page2_main_title":"5. Mercury : Effects & Remedies"
-"page2_astrology_overview":"In astrological parlance Mercury has been understood as an externally variable, vacillating, convertible, neutral and dualistic planet. Mercury reflects the mentality of an individual, governs the reaction to our senses and impressions and rules over the central nervous system. As an intellectual planet it represents intelligence, genius, analytic power and reproducibility."
-"page2_mercury_role_effects":"Mercury is the smallest planet of the solar system. The author of Lal Kitab has compared Mercury with a bar which keeps hanging upside down and pounces upon the face of a child at the first opportunity. The native fails to understand anything and meanwhile the mysterious and mischievous Mercury turns the circle of fortune in the reverse gear. Mercury produces the effects of the planet or planets it is associated with. Mercury is considered malefic in the 3rd, 8th, 9th and 12th houses. Rahu gives bad results in 1, 5, 7, 8 and 11th houses. If Mercury and Rahu both are in their auspicious houses then Mercury causes havoc in the natives houses and produces disastrous result like putting the native behind the bars or creating troubles of the same sort. Mercury is considered auspicious in the 1, 2, 4, 5, 6 and the 7th houses and gives bad results even placed in the 3, 8, 9, 10, 11 and 12th. Its colour is green and Moon is its enemy. Sun Venus and Rahu are friends, whereas Mars, Saturn, and Ketu are neutral to him. 7th house is the Pukka Ghar of Mercury. It stands exalted in the 6th house and gets debilitated in the 12th house. Affected Venus causes diseases of tooth and nervous system. If Mercury is placed alone in any house the native keeps running and wasting time here and there."
-"page2_subtitle_1":"Mercury in 1st House"
-"page2_mercury_1st_house_effects":"Mercury in 1st house makes the native kind, humorous and diplomatic with administrative skill. Such a native generally lives long and becomes selfish and mischievous by nature having special attraction for non-vegetarian dishes and drinks. He receives favour from the government and his daughters have royal and luxurious lives. The relatives represented by the house in which Sun is placed gain wealth and riches within a little time and he himself will be having many sources of income. If Sun is placed along with Mercury in the 1st house or if the Mercury is aspected by Sun the wife of native will come from a rich and noble family and will be good natured. Such a native will be affected by the evil effects of Mars but Sun will never give bad effects."
-"page2_rahu_ketu_effects":"Rahu and Ketu will have evil effects, which suggests that the in laws and the offspring of the native will be adverse. If Mercury is in the 1st house, the native will be adept in the art of influencing others and he will live like a king. Malefic Mercury in the 1st house along with Moon in the 7th house destroy the native because of intoxication."
-"page2_subtitle_2":"Remedies"
-"page2_remedy_1":"Keep away from the things of green colour and sisters in law."
-"page2_remedy_2":"Avoid consumption of meat, eggs and liquor."
-"page2_remedy_3":"Business that requires your sitting at one place would be more beneficial than the one that requires running around."
-"page2_subtitle_3":"Mercury in 2nd House"
-"page2_mercury_2nd_house_intro":"Mercury in the 2nd house makes the native intelligent selfcentered, destroyer of enemies and"
-}
-11:{
-"general_description":"He may be able to provide sufficient happiness to his father. He will be rich. The things represented by Mars and Venus will prove beneficial to him."
-"general_remedy_1":"Abstain from eggs meat and liquor."
-"general_remedy_2":"Association with your sisters in law is harmful."
-"general_remedy_3":"Keeping sheep, goat and parrots as pets is strictly prohibited."
-"mercury_3rd_house_description":"Mercury in the 3rd house is not considered good. Mercury is inimical to Mars. But Mars does not have enmity with Mercury. Therefore the native can receive benefits from his brother, but he will not be beneficial to his brother or others. By virtue of its aspects of 9th and 11th houses Mercury affects the income and the condition of the father very adversely."
-"mercury_3rd_house_remedy_1":"Clean your teeth with alum everyday."
-"mercury_3rd_house_remedy_2":"Feed birds and donate a goat."
-"mercury_3rd_house_remedy_3":"Don't live in a south facing house."
-"mercury_3rd_house_remedy_4":"Distribute medicines of asthma."
-"mercury_4th_house_description":"The native in the 4th house is considered fortunate, very dear to his mother, good trader and receives favours from the government. However Mercury in this house effects the income and health of another person adversely."
-"mercury_4th_house_remedy_1":"Putting on silver chain for mental peace and golden chain for gaining wealth and property."
-"mercury_4th_house_remedy_2":"Putting Kesar Tilak regularly for 43 days on fore-head."
-"mercury_4th_house_remedy_3":"Serving monkeys by offering jaggery."
-"mercury_5th_house_description":"Mercury in this house makes the native happy, wealthy and wise. Spontaneous utterances from the mouth of the native will certainly prove true."
-"mercury_5th_house_remedy_1":"Wear a copper coin in white thread for obtaining riches."
-"mercury_5th_house_remedy_2":"Serving cows for the happiness of wife and good luck."
-"mercury_5th_house_remedy_3":"A Gomukhi house (narrow at the front and wider at the end) would prove highly auspicious where as Shermukhi house (wider at the front and narrower at the end) would prove highly disastrous."
-"mercury_6th_house_description":"Mercury becomes exalted in the 6th house. The native will be selfmade man and will receive benefits from agricultural land, stationery, printing press and trade. Good or evil words from his mouth will never go waste. North facing house will give bad results. Daughter's marriage in the north direction will make her unhappy in every way."
-"mercury_6th_house_remedy_1":"No explicit remedies listed."
-"mercury_7th_house_remedy_1":"Burying a bottle filled with Ganga water into the agricultural land."
-"mercury_7th_house_remedy_2":"Putting on a silver ring in the left hand of ones wife."
-"mercury_7th_house_remedy_3":"Starting any important work in the presence of a girl or daughters, or with flowers in hand proves auspicious."
-"mercury_7th_house_description":"In a male horoscope, Mercury in the 7th house proves highly beneficial for others for whom the native wishes well. In a female horoscope it produces good result. The pen of the native wields more power then the sword. The sister of the native's wife will prove highly helpful in every matter. If a Moon is placed in the 1st house, overseas journey will be advantageous. Saturn in the 3rd house will make the wife's family very rich."
-"mercury_8th_house_description":"Mercury gives very bad results in 8th house, but if it is placed along with a male planet it will give good effects of the associated planet. The native lives a hard life, victimised by diseases and during the age of 34 his income goes down by half. It is more harmful if some planet is placed in the 2nd house. If Rahu is also placed in the same house the native may have to go to jail, may have to be hospitalized or may have to wander from place to place. Bad results ensue if Mars is also placed therein. Mercury here causes disfavour from the government and diseases like blood disorder, eye problem, tooth and vein troubles, as well as big loss in business."
-"mercury_8th_house_remedy_1":"Get an earthen pot filled with honey and bury it in the cremation ground or deserted area."
-"mercury_8th_house_remedy_2":"Place milk or rain water in a container on the roof of the house."
-"mercury_8th_house_remedy_3":"Put a ring in the nose of your daughter."
-"mercury_9th_house_description":"Mercury provides very bad results in the 9th house also,because this house belongs to Jupiter and Mercury remains inimical to it. It causes continuous mental restlessness and defamation of various types. If Moon, Ketu and Jupiter are placed in 1, 3, 6, 7, 9 and 11th houses, Mercury does not give very advantageous results."
-"mercury_9th_house_remedy_1":"Avoid the use of green colour."
-"mercury_9th_house_remedy_2":"Get yours nose pricked."
-"mercury_9th_house_remedy_3":"Offer mushroom filled in an earthen pot to a religious place."
-"mercury_9th_house_remedy_4":"Do not accept any Tabeez from any Sadhu or Faqir."
-"mercury_10th_house_description":"Mercury in the 10th house provides favour from the government. Gives good sources of livelihood.He manages to get his work done in every way. The business of such a native flourishes in a Shermukhi house, but residency in such a house gives very bad result and can be disastrous."
-"mercury_10th_house_remedy_1":"No explicit remedies listed."
-}
-12:{
-"general_rule_1":"Consumption of eggs, meat and liquor are strictly prohibited."
-"general_rule_2":"Offer rice and milk in religious places."
-"mercury_11th_house_description":"Mercury in this house gives bad results, because of enmity to Jupiter. At the age of 34 the native undertakes works of extreme foolishness. Here Mercury causes loss of wealth, loss of mental peace and loss of reputation. Even hard work is not awarded. However the children of native will be well educated and get married in very rich and noble families."
-"mercury_11th_house_remedy_1":"Wear copper coin in neck in a white thread or silver chain."
-"mercury_11th_house_remedy_2":"Do not keep a widowed sister or father’s sister in your house."
-"mercury_11th_house_remedy_3":"Avoid green colour and emerald."
-"mercury_11th_house_remedy_4":"Do not accept any Tabeez from a Sadhu or Faqir."
-"mercury_12th_house_description":"Mercury here destroys night’s sleep of the native and causes troubles of many sorts. He loses peace of mind and very often suffers from headache. He has a long life but suffers from Mercury, although, however, if Mercury is accompanied by Saturn in this house very good results follow. Saturn along with Sun and Mercury in 12th house also gives good result. Daughters, sisters, father’s sister and niece will be unhappy as long as they are living in the native’s house. Such persons are generally self praising and of irritable nature. If something right or wrong goes into his mind, he will ensure to stick to it in every manner. If such a native is fond of taking liquor he will be of pretentious nature. Speculation in business will prove harmful. Marriage in the 25th year will prove harmful for the native’s wife and father."
-"mercury_12th_house_remedy_1":"Throwing new empty pitcher in a river."
-"mercury_12th_house_remedy_2":"Putting on a ring of stainless steel."
-"mercury_12th_house_remedy_3":"Putting Kesar Tilak on face, head and visiting religious places of worship."
-"mercury_12th_house_remedy_4":"Taking advice of another person before starting any new or important work."
-"jupiter_main_title":"Jupiter : Effects and Remedies"
-"jupiter_general_description_1":"Jupiter is a fiery, noble, benevolent, masculine, expansive, optimistic, positive and dignified planet. Higher attributes of the mind and soul, generosity, joy, jubilation and joviality along with high reasoning ability and the power of right judgement are all governed by Jupiter. Jupiter rules educational interests, law, religion, philosophy, banking, economics and indicates the extent of one’s love and longing for religion, scriptures, elders and preceptors. He is also a signification of wealth, progress, philosophic nature, good conduct, health and children."
-"jupiter_general_description_2":"Jupiter represents ‘Thursday’ and the yellow colour. He is regarded as ‘Karaka’ for 2nd, 5th and 9th houses. The Sun, Mars and Moon are his friends, where as Mercury and Venus are enemies to him. Rahu, Ketu and Saturn adopt neutrality to him. He stands exalted in the 4th house and the 10th house is his house of his debilitation."
-"jupiter_general_description_3":"Jupiter provides good results if placed in houses 1, 5, 8, 9 and 12, but 6th, 7th and the 10th are the bad houses for him. Jupiter gives bad results when Venus or Mercury get placed in the 10th house of a horoscope. However, Jupiter never gives bad results if placed alone in any house. A malefic Jupiter affects the Ketu (son) very adversely. Jupiter offers malefic results if he is placed with Saturn, Rahu or Ketu in a horoscope."
-"jupiter_1st_house_description":"Jupiter in the 1st house makes the native necessarily rich, even if he is deprived of learning and education. He will be healthy and never afraid of enemies. He will rise every 8th year of his life through his own efforts and with the help of friends in the government. If the 7th house is not occupied by any planet success and prosperity will come after the marriage of the native. Marriage or construction of a house with one’s own earnings in the 24th or 27th year would prove inauspicious for the longevity of the father’s life. Jupiter in 1st house along with the Saturn in the 8th house causes health problems for the native. Jupiter in the 1st house and Rahu in the 8th causes the death of the native’s father because of heart attack or asthma."
-"jupiter_1st_house_remedy_1":"Offer the things of Mercury, Venus and Saturn to the religious places."
-"jupiter_1st_house_remedy_2":"Serving cows and helping untouchables."
-"jupiter_1st_house_remedy_3":"If Saturn is placed in the 5th house, don’t build a house."
-"jupiter_1st_house_remedy_4":"If Saturn is placed in the 9th house, don’t buy machinery associated with Saturn."
-"jupiter_1st_house_remedy_5":"If Saturn is in 11th or 12th house, avoid use wine, meat and eggs strictly."
-"jupiter_1st_house_remedy_6":"Ward-off the evil effects of Mercury by putting on silver in the nose."
-"jupiter_2nd_house_description":"The results of this house are affected by Jupiter and Venus as if they are together in this house, though Venus may be placed anywhere in the chart. Venus and Jupiter are inimical to each other. Hence both will affect each other adversely. Consequently, if the native engages himself in the trade of gold or jewellery, then the things of Venus like wife, wealth and property will get destroyed. As long as the wife of the native is with him, the native will continue gaining honour and wealth despite the fact that his wife and her family may be suffering because of ill health and other prob-"
-}
-13:{
-"content":"{"general_condition_native_admired_by_females": true, "general_condition_native_inherits_fathers_property": true, "general_condition_benefited_by_lottery_or_property_of_person_no_issues": true, "general_condition_2nd_6th_8th_houses_auspicious": true, "general_condition_saturn_not_placed_in_10th": true, "general_remedy_1_charity_and_donations_ensure_prosperity": true, "general_remedy_2_offer_milk_to_snakes_for_warding_off_evils_of_saturn_in_10th": true, "general_remedy_3_fill_up_pits_on_road_side_in_front_of_house": true, "jupiter_in_3rd_house_native_learned": true, "jupiter_in_3rd_house_native_rich": true, "jupiter_in_3rd_house_native_continuous_income_from_government": true, "jupiter_in_3rd_house_saturn_in_9th_native_live_long": true, "jupiter_in_3rd_house_saturn_in_2nd_native_extremely_clever_and_crafty": true, "jupiter_in_3rd_house_saturn_in_4th_native"
-"type":"text"
-}
-14:{
-"jupiter_10th_house_remedy_general_1":"One should go to temple everyday."
-"jupiter_10th_house_remedy_general_2":"Abstain from drinking alcohol."
-"jupiter_10th_house_remedy_general_3":"Offer rice to running water."
-"jupiter_10th_house_description":"This house belongs to Saturn. So the native will have to imbibe the qualities of Saturn only then he will be happy. The native should be cunning and sly. Only then the can enjoy the good results of Jupiter. If Sun is in the 4th house Jupiter will give very good results. Venus and Mars in the 4th house ensure multi-marriages for the native. If friendly planets are placed in the 2nd, 4th and 6th houses, Jupiter provides highly beneficial results in matters of money and wealth. A malefic Jupiter in the 10th makes the native sad and impoverished. He is deprived of ancestral properties, wife and children."
-"jupiter_10th_house_remedy_1":"Clean your nose before beginning any work."
-"jupiter_10th_house_remedy_2":"Throw copper coins in the running water of a river for 43 days."
-"jupiter_10th_house_remedy_3":"Offer almonds to religious places."
-"jupiter_10th_house_remedy_4":"A temple with idols must not be established within the house."
-"jupiter_10th_house_remedy_5":"Put Tilak of saffron on the forehead."
-"jupiter_11th_house_description":"Jupiter in this house affects the things and relatives of his enemies Mercury, Venus and Rahu very adversely. Consequently the wives of the native will remain miserable. Similarly, sisters, daughters and father's sisters will also remain unhappy. The native will be a debtor even if Mercury is well placed. The native will be comfortable only as long as his father lives with him in a joint family along with brothers, sisters and mother."
-"jupiter_11th_house_remedy_1":"Always keep gold on your body."
-"jupiter_11th_house_remedy_2":"Put on a copper bangle."
-"jupiter_11th_house_remedy_3":"Watering a Pipal tree would prove beneficial."
-"jupiter_12th_house_description":"The 12th house would provide the combined influences of Jupiter and Rahu, who are inimical to each other. If the native observes good conduct, wishes good for all and observes religious practices he will become happy and enjoy a comfortable sleep at night. He would become wealthy and powerful. Abstaining from evil acts of Saturn will make the business of machinery, motor, trucks and cars highly beneficial to him."
-"jupiter_12th_house_remedy_1":"Avoid furnishing false evidence in any matter."
-"jupiter_12th_house_remedy_2":"Render services to sadhus, Pipal Gurus and Pipal tree."
-"jupiter_12th_house_remedy_3":"Place water and Saunf on the head side of your bed during nights."
-"document_title":"7. Venus : Effects And Remedies"
-"venus_general_description":"As a feminine planet, Venus has been regarded as the goddess of love, marriage, beauty and all worldly comforts. Venus represents that power of love which leads to the merger of two individual selves into one and rules the gentle and refined attributes of human life."
-"venus_astrological_description":"As a preceptor of demons, Venus stands for the husband in the horoscope of a female and represents the wife in the horoscope of a male. Venus offers good results if placed alone in the birth chart. The 2nd and 7th houses are owned by Venus who gets exalted in the 12th house. Saturn, Mercury and Ketu are friends of Venus whereas Sun, Moon and Rahu act as enemies. Venus offers very good results if posited in the 2nd, 3rd, 4th, 7th and 12th houses, but the 1st, 6th and 9th houses are considered bad for Venus. Accordingly, Venus offers very good results in the houses of Mercury, Saturn and Ketu, whereas evil effects will follow if posited in the houses of Sun, Rahu and Moon. When Rahu aspects Venus or vice versa, or when both are placed together in a house, the good results of Venus will be nullified and the native will get deprived of money, wealth and family comforts altogether. The eyes of the native's mother will become severely defective if Moon and Venus are placed just opposite to each other."
-"venus_afflicted_description":"Afflicted Venus causes trouble in the eyes, diseases of the ovaries, gout, anaemia and other complications due to over indulgence in amusements and sex, including gonorrhoea and syphilis. An afflicted Venus may cause vehicular accidents, faithlessness in love and marriage and will deprive the native of the comforts of vehicles, conveyance etc."
-"venus_1st_house_description":"Venus in 1st house makes the native highly handsome, long lived, sweet tongued and popular among the opposite sex. Wife of the native remains ill. Religion, caste or creed is never a bar for having sexual relations with anyone. Such a native is generally highly romantic by nature and longs for love and sex with other women. He gets married before he starts earning his living. Such a native becomes a leader of persons of his age group, but leadership of the family members causes several family troubles. Such a native earns great profits through the trade of clothes. Such a native is generally deprived of interest in religious pursuits. When Venus comes in 7th house in Varsha Phal, it causes chronic fever and blood cough."
-"venus_1st_house_remedy_1":"Do not marry at the age of 25 years."
-"venus_1st_house_remedy_2":"Always act according to the advice of others."
-"venus_1st_house_remedy_3":"Serving a black cow."
-"venus_1st_house_remedy_4":"Avoid sex during day time."
-"venus_1st_house_remedy_5":"Take bath with curd."
-"venus_1st_house_remedy_6":"Intake of cow's urine is very useful."
-"venus_2nd_house_description":"Doing bad or evil towards others would prove harmful to the native. Money, wealth and property would continue to grow upto sixty years. Shermukhi house (wider at the front than the rear portion) would prove disastrous for the native. Business or trade associated with gold and jewellery will be extremely harmful. Business associated with earthen goods, agriculture and animal will prove highly beneficial."
-}
-15:{
-"venus_in_2nd_house_main_point":"beneficial, Venus in 2nd house in a female horoscope renders the native barren or infertile and in a male 's horoscope makes the wife incapable of producing a son."
-"venus_in_2nd_house_remedy_1":"For getting a son, intake of things associated with Mars, like honey, Saunf or Deshi Khand will be highly effective."
-"venus_in_2nd_house_remedy_2":"Feed two kgs of potatoes coloured by yellow turmeric to cows."
-"venus_in_2nd_house_remedy_3":"Offer two kgs. cow's Ghee in a temple."
-"venus_in_2nd_house_remedy_4":"Avoid adultery."
-"venus_in_3rd_house_main_point":"Venus blesses the native with a charming personality and every woman would get attracted to him. He is generally loved by all. If the native gets involved with other women he will have to live in subservience to his wife, otherwise his wife will always be dominated by him, though she may be dominating everyone else coming into contact with her. She would be courageous, supportive and helpful to the native, like second bullock of the cart. He will be saved from deceit, theft and harm from others. Contacts with other women would prove harmful and affect the longevity adversely. If planets placed in 9th and 11th houses are inimical to Venus, highly adverse results will follow. He will have many daughters."
-"venus_in_3rd_house_remedy_1":"Respect your wife and never insult her."
-"venus_in_3rd_house_remedy_2":"Avoid flirting with other women."
-"venus_in_4th_house_main_point":"Venus in 4th house strongly establishes the possibility of two wives and makes the native rich, too. If Jupiter is posited in 10th house and Venus is placed in 4th, the native will face adverse results from all sides if he tries to be religious. Venus in 4th house destroys the possibility of a son to the native if he covers a well by a roof and constructs a room or house over it. The business associated with Mercury will also prove harmful. Saturn will give disastrous effects if the native consumes liquor. The business or trade associated with Mars will prove advantageous to such a native. Venus in 4th and Jupiter in 1st house will create frequent quarrels with the mother-in-law."
-"venus_in_4th_house_remedy_1":"Change the name of your wife and remarry her formally."
-"venus_in_4th_house_remedy_2":"Throwing rice, silver and milk in the running water or feeding Kheer or milk to mother like women will ward off the quarrels between mother-in-law and daughter-in-law."
-"venus_in_4th_house_remedy_3":"Keep the roof of the house clean and well-maintained for the health of your wife."
-"venus_in_4th_house_remedy_4":"Drop things of Jupiter, like gram, pulses and Kesar, in the river."
-"venus_in_5th_house_main_point":"5th house is the Pukka Ghar of the Sun, where Venus will get burnt with the heat of the Sun. Consequently the native is a flirt and amorous by nature. He will face big misfortunes in life. However, if the native maintains a good character he will steer through the hardships of life and obtain great riches and promotions in service after five years of his marriage. Such a native is generally learned and destroyer of enemies."
-"venus_in_5th_house_remedies":"None explicitly listed in this document batch."
-"venus_in_6th_house_main_point":"This house belongs to Mercury and Ketu, who are inimical to each other, but Venus is friendly to both. Venus stands, debilitated in this house. However, if the native keeps the opposite sex happy and provides her with all the comforts, his money and wealth will continue to grow. The wife of the native should not get dressed like a male and should not get her hair cut like a male, otherwise poverty will crop up. Such a native must marry a person who has got a brother or brothers. Further, the native should not leave any work in the midway, i.e., before completion."
-"venus_in_6th_house_remedy_1":"Ensure that your wife puts gold clips in her hair."
-"venus_in_6th_house_remedy_2":"Your spouse must not remain barefooted."
-"venus_in_6th_house_remedy_3":"The private parts should be washed with red medicine."
-"venus_in_7th_house_main_point":"This house belongs to Venus, so Venus gives very good results if it is placed in this house. The planet of 1st house offers the effects of 7th house in such a manner as if it is placed in 7th house itself. If a planet inimical to Venus is placed in 1st house e.g. Rahu, the wife and the household affairs of the native will be adversely affected. The native spends his money largely on women. The native should take up the trade or business which is associated w/i marriage ceremony, like tent house and beauty parlour. Association with one eyed and black woman will prove useful."
-"venus_in_7th_house_remedy_1":"Domestication of white cows prohibited."
-"venus_in_7th_house_remedy_2":"Serving red cows."
-"venus_in_7th_house_remedy_3":"Donate Jawar equal to the weight of your spouse to a temple."
-"venus_in_7th_house_remedy_4":"Throwing blue flowers in a dirty canal for 43 days."
-"venus_in_8th_house_main_point":"No planet is considered benefic in this house Even Venus in this house becomes rotten and poisonous. The wife of such a native becomes highly irritable and short tempered. Evil utterances from her mouth will certainly prove to be true. The native will be suffering from the feeling of self pity. Taking guarantee or surety for someone will prove disastrous. If there is no planet in 2nd house, do not marry before 25 years of age, otherwise the wife will certainly die."
-"venus_in_8th_house_remedy_1":"The native should not accept Daan."
-"venus_in_8th_house_remedy_2":"Bowing head in the place of worship and temples."
-"venus_in_8th_house_remedy_3":"Copper coin or blue flower to be thrown in gutter or dirty Nullah continuously for ten days."
-"venus_in_8th_house_remedy_4":"Wash your private parts with curd."
-"venus_in_9th_house_main_point":"Venus in this house does not offer good results. The native may have riches, but he will get his bread only after hard labour. His efforts are not properly rewarded. There will be dearth of male"
-"venus_in_9th_house_remedies":"None explicitly listed in this document batch, and the text is cut off."
-}
-16:{
-"content":"{"venus_general_effect_if_with_mercury_or_malefic": "victim of intoxication and disease", "venus_general_effect_age_start": 17, "remedy_venus_general_1": "In the foundation of the house silver and honey should be buried.", "remedy_venus_general_2": "Silver bangles to be worn after putting some red colour on them.", "remedy_venus_general_3": "Bury a silver piece under a Neem tree for 13 days.", "venus_10th_house_native_trait_1": "greedy", "venus_10th_house_native_trait_2": "suspicious", "venus_10th_house_native_trait_3": "interested in handicraft", "venus_10th_house_native_action_guidance": "under the control and guidance of his spouse", "venus_10th_house_spouse_protection_effect": "all sorts of troubles will remain warded off", "venus_10th_house_motor_car_accident_protection": "native cannot be harmed in any manner", "venus_10th_house_business_advantage": "business and things associated with Saturn will prove advantageous", "remedy_venus_10th_house_1": "Washing private parts with curd.", "remedy_venus_10th_house_2": "Western wall of the house should be of mud.", "remedy_venus_10th_house_3": "Abstinence from wine and non vegetarian food.", "remedy_venus_10th_house_4": "At the time of illness, the native should donate a black cow.", "venus_11th_house_influence_1": "Saturn and Jupiter", "venus_11th_house_reason_1": "house belongs to Jupiter and Saturn", "venus_11th_house_aspect_from": "3rd house", "venus_11th_house_aspect_influence": "Mars and Mercury", "venus_11th_house_beneficial_relation": "Native's wife, through her brothers, will prove very beneficial.", "remedy_venus_11th_house_1": "Remedies of Mercury will be useful.", "remedy_venus_11th_house_2": "Oil to be given on Saturday.", "remedy_venus_11th_house_3_problem": "The native usually suffers from low sperm count in his semen.", "remedy_venus_11th_house_3_solution": "Native should drink milk in which hot piece of gold has been dipped.", "venus_12th_house_exalted_results": "very beneficial results", "venus_1"
-"type":"text"
-}
-17:{
-"general_point_1":"Burying Surma in the ground will be beneficial for promotion in service and business."
-"general_point_2":"Serving monkey will lead to prosperity."
-"general_point_3":"Offering sweet milk to the roots of a banyan tree will give good results as regards education and health."
-"saturn_in_2nd_house_description":"The native will be wise, kind and just. He will enjoy wealth and will be of religious temperament. However, whether Saturn is benefic or malefic in this house, it will be decided by the planets placed in 8th house. The state of finance and the native will be decided by 7th house, the number of male members in the family by 4th house and age by 5th house. When Saturn is malefic in this house, after the native's marriage his in laws will face problems."
-"saturn_in_2nd_house_remedy_1":"Going barefoot to temple for forty three days."
-"saturn_in_2nd_house_remedy_2":"Putting a Tilak of curd or milk on the forehead."
-"saturn_in_2nd_house_remedy_3":"Offering milk to snake."
-"saturn_in_3rd_house_description":"In this house Saturn gives good results. This house is the Pukka Ghar of Mars. When Ketu aspects this house or is placed here Saturn will give very good results. The native will be healthy, wise and very intuitive. If the native is wealthy he will have few male members in the family and vice versa. As long as the native abstains from wine and non-vegetarianism, he will enjoy a long and healthy life."
-"saturn_in_3rd_house_remedy_1":"Serve three dogs."
-"saturn_in_3rd_house_remedy_2":"Distributing medicines for eyes free."
-"saturn_in_3rd_house_remedy_3":"Keeping a dark room in the house will prove highly beneficial."
-"saturn_in_4th_house_description":"This house belongs to Moon. So it will give mixed results in this house. The native will be devoted to his parents and will be of loving nature. Whenever the native is suffering from bad health, the use of things associated with Saturn will give good results. In native's family some one will be associated with medical profession. When Saturn is malefic in this house drinking wine, killing of snakes and laying the foundation of the house at night will give very bad results. Drinking milk in the night will also give bad results."
-"saturn_in_4th_house_remedy_1":"Offering milk to snake and offering milk or rice to crow or buffalo."
-"saturn_in_4th_house_remedy_2":"Pouring milk in the well."
-"saturn_in_4th_house_remedy_3":"Pouring rum in running water."
-"saturn_in_5th_house_description":"This house belongs to Sun, which is inimical to Saturn. The native will be proud. He should not construct a house till 48 years, otherwise his son will suffer. He should live in the house bought or constructed by his son. He should keep articles of Jupiter and Mars in his ancestral house for welfare of his children. If the native has hairy body, he will be dishonest."
-"saturn_in_5th_house_remedy_1":"Distributing salty things while celebrating son's birthday."
-"saturn_in_5th_house_remedy_2":"Offering almonds in the temple and bringing and keeping half of it in the house."
-"saturn_in_6th_house_description":"If the work related to Saturn is done at night it will always give beneficial results. When marriage takes place after 28 years it will produce good results. When Ketu is well placed the native will enjoy wealth, profitable journey and happiness from children. When Saturn is malefic bringing things associated with Saturn, like leather and things of iron, will give bad results, especially when Saturn is in 6th house in Varshaphal"
-"saturn_in_6th_house_remedy_1":"Serving a black dog and offering meals to it."
-"saturn_in_6th_house_remedy_2":"Offering coconut and almonds in the running water."
-"saturn_in_6th_house_remedy_3":"Serving snakes will prove advantageous for the welfare of children."
-"saturn_in_7th_house_description":"This house is influenced by Mercury and Venus, both friends of Saturn. So this planet gives very good results in this house. The professions associated with Saturn, like machinery and iron, will be very profitable. If the native maintains good relation with his wife, he will be rich and prosperous, will enjoy a long life and good health. If Jupiter is in 1st house, there will be gain from government. Saturn becomes malefic if the native commits adultery and drinks wine. If the native gets married after 22 years his eyesight will be affected adversely."
-"saturn_in_7th_house_remedy_1":"Bury a flute filled with sugar in a deserted place."
-"saturn_in_7th_house_remedy_2":"Serving black cow."
-"saturn_in_8th_house_description":"In 8th house no planet is considered auspicious. The native has a long life, but his father's life span is short and native's brothers turn out to be his foes. This house is considered headquarter of Saturn, but it will give bad result if Mercury, Rahu and Ketu are malefic in the native's horoscope."
-"saturn_in_8th_house_remedy_1":"Keeping a square piece of silver."
-"saturn_in_8th_house_remedy_2":"Putting milk in water and sitting on a stone or wood while taking bath."
-"saturn_in_9th_house_description":"Native will have three houses. He will be a successful tour operator or civil engineer. He will enjoy a long and happy life and parents also will have a happy life. Maintaining three generations will protect from the bad effects of Saturn. If the native is helpful to others Saturn will always give good results. The native will have a son, though he will be born late."
-}
-18:{
-"saturn_10th_house_description":"Saturn's own house, where it will give good results. The native will enjoy wealth and property as long as he does not get a house constructed. Native will be ambitious and enjoy favours from government. The native should behave with shrewdness and should do his work while sitting at one place. Only then he will enjoy the benefits of Saturn."
-"saturn_10th_house_remedy_1":"Offering rice or almonds in running water."
-"saturn_10th_house_remedy_2":"Work associated with Jupiter-gold, Kiesar and Moon (silver cloth) will give good results."
-"saturn_10th_house_remedy_3":"Going to temple."
-"saturn_10th_house_remedy_4":"Abstinence from meat, wine and eggs."
-"saturn_10th_house_remedy_5":"Offering food to ten blind people."
-"saturn_11th_house_description":"Native's fate will be decided at the age of forty eight years. The native will never remain childless. Native will earn money by shrewdness and deceit. Saturn will give good or bad results according to the position of Rahu and Ketu"
-"saturn_11th_house_remedy_1":"Before going for an important work place a vessel filled with water and drop oil or wine on earth for forty three days."
-"saturn_11th_house_remedy_2":"Abstinence from drinking and maintaing good moral character."
-"saturn_12th_house_description":"Saturn gives good results in this house. Native will not have enemies. He will have many houses. His family and business will increase. He will be very rich. However Saturn will become malefic if the native starts drinking wine and becomes non- vegetarian, or if the dark room in the house is illuminated."
-"saturn_12th_house_remedy_1":"Tying twelve almonds in a black cloth and placing it in a iron pot and keeping it in a dark room will give good results."
-"rahu_general_description":"Unlike other planets of the solar system Rahu and Ketu are not observable, substantial heavenly bodies, with shape or mass content. Rightly termed as shadowy planets, their movement is interrelated and as parts of one body they are at all times just opposite to each other. Greater significance has been attached to the role of Rahu in influencing human affairs in various dimensions, especially in Kaliyug."
-"rahu_lal_kitab_description":"The author of Lal Kitab describes Saturn as a serpent and Rahu and Ketu as its head and tail respectively. As a node of Moon, Rahu shall not provide adverse results so long as 4th house or Moon is not afflicted. He gives good results when Mars occupies houses 3 and 12, or when Sun and Mercury are in house 3, or when he himself is posited in 4th house. Rahu further provides good results if placed together with Mercury or aspected by him."
-"rahu_effects_description":"Rahu offers highly beneficial effects if placed in houses earlier than Saturn. But if it is otherwise, Saturn becomes stronger and Rahu acts as his agent. Sun provides very good results when Rahu is aspected by Saturn, but Rahu gives the effects of a debilitated planet when Saturn is aspected by Rahu."
-"rahu_exaltation_debilitation_description":"Rahu gets exalted in houses 3 and 6, whereas he gets debilitated in houses 8, 9 and 11. 12th house is his 'Pakka Ghar' and he proves highly auspicious in houses 3,4 and 6. Saturn, Mercury and Ketu are his friends, whereas Sun, Mars and Venus are his enemies. Jupiter and Moon are neutral to him."
-"rahu_sun_venus_influence_description":"If Sun and Venus are placed together in a horoscope, Rahu will generally provide adverse results. Similarly, Rahu will provide bad results if Saturn and Sun are also combined in a horoscope. Here Mars will also become Mars negative. If Ketu is placed in houses earlier than Rahu, Rahu will provide adverse results, whereas Ketu's effect would be zeroed."
-"rahu_1st_house_description":"1st house is influenced by Mars and Sun, which is like a throne. The planet in 1st house is considered to be the king of all planets."
-"rahu_1st_house_native_characteristics":"The native will achieve a position higher than indicated by his qualification and will obtain good results from government. Rahu in this house would give the result of exalted Sun, but it will spoil the fruits of the house in which Sun is placed. If Mars, Saturn and Ketu are weak only then Rahu would give bad results, otherwise it will give good results in 1st house. If Rahu is malefic the native should never take any electric equipments or blue/black clothes from his in-laws, else his son could be affected adversely. Its malefic result too could last till the age of 42 years."
-"rahu_1st_house_remedy_1":"Offer 400 gm lead in running water."
-"rahu_1st_house_remedy_2":"Wear silver in the neck."
-"rahu_1st_house_remedy_3":"Mix barley in milk in ratio of 1:4 and offer in running water."
-"rahu_1st_house_remedy_4":"Offer coconut in running water."
-"rahu_2nd_house_description":"If Rahu is in benefic form in 2nd house one gets money, prestige and lives like a king. He will have"
-}
-19:{
-"rahu_in_9th_house_description_part_1":"9th house is influenced by Jupiter. If the native has good relation with ones brothers and sisters it is a long life."
-"rahu_in_9th_house_description_part_2":"2nd house is influenced by Jupiter and Venus."
-"rahu_in_9th_house_description_part_3":"If Jupiter is benefic then the native will live the early years of his life in wealth and comfort."
-"rahu_in_9th_house_description_part_4":"If Rahu is malefic the native will be poor and have a bad family life, suffer from intestinal disorders."
-"rahu_in_9th_house_description_part_5":"The native is killed by a weapon and is unable to save money."
-"rahu_in_9th_house_description_part_6":"In the 10th, 21st to 42nd years of his life, he loses wealth by theft etc."
-"rahu_in_9th_house_remedy_1":"Keep a solid silver ball in the pocket."
-"rahu_in_9th_house_remedy_2":"Wear things associated with Jupiter, like gold, yellow cloth, saffron etc."
-"rahu_in_9th_house_remedy_3":"Keep cordial relations with ones mother."
-"rahu_in_9th_house_remedy_4":"After marriage do not take any electric equipment from in-laws."
-"rahu_in_3rd_house_description":"It is the 'Pukka Ghar' of Rahu. 3rd house belongs to Mercury and is influenced by Mars. Rahu is benefic the native will enjoy great wealth and a long life. He will be fearless and a loyal friend. He would be a clairvoyant for seeing future in his dreams. He will never be issueless. He will be victorious over his enemies; can never be a debtor. He would leave behind property. 22nd year of his life would be of progress. However if Rahu is malefic in 3rd house then his brothers and relatives would waste his money. His money once borrowed would never be returned. He would have defective speech and would be an atheist. If Sun and Mercury are also there (in 3rd house) with Rahu then his sister would become a widow in 22nd or 32nd year of his life."
-"rahu_in_3rd_house_remedy_1":"Never keep ivory or things of ivory in the house."
-"rahu_in_4th_house_description":"This house belongs to Moon, which is an enemy of Rahu. If Rahu is benefic in this house the native would be intelligent, wealthy and will spend money on good things. Going on pilgrimage would be beneficial for him. If Venus is also benefic then after marriage the native's in-laws could also become rich and the native would also benefit from them. When Moon is exalted the native would become very rich and would benefit from the works or relates associated with Mercury. If Rahu is malefic and the Moon is also weak then the native will suffer from poverty and native's mother would also suffer. Collecting char coal, altering toilet, installing oven in the ground and alteration of the roof in the house would be indicative of malefic."
-"rahu_in_4th_house_remedy_1":"Wear silver."
-"rahu_in_4th_house_remedy_2":"Offer 400 gm coriander or almonds, or both in flowing water."
-"rahu_in_5th_house_description":"5th house belongs to Sun, which signifies male offspring. If Rahu is benefic native will be rich, wise, enjoy good health. He would enjoy good income and good progress. The native would be a devout or philosopher. If Rahu is malefic it leads to abortions. After the birth of a son, wife's health will suffer for twelve years. If Jupiter is also in 5th house father of native will be in trouble."
-"rahu_in_5th_house_remedy_1":"Keep an elephant made of silver."
-"rahu_in_5th_house_remedy_2":"Abstain from wine, non-vegetarianism and adultery."
-"rahu_in_5th_house_remedy_3":"Remarry your wife."
-"rahu_in_6th_house_exalted_description":"This house is influenced by Mercury or Ketu. Rahu is exalted and gives very good results. The native will be free of all botherations or troubles. The native will spend money on clothes. The native will be intelligent and victorious. When Rahu is malefic he will harm his brothers or friends. When Mercury or Mars is in 12th house Rahu gives bad result. The native suffers from various ailments or loss of wealth. Sneezing while going to work would give bad results."
-"rahu_in_6th_house_exalted_remedy_1":"Keep a black dog."
-"rahu_in_6th_house_exalted_remedy_2":"Keep a lead nail in your pocket."
-"rahu_in_6th_house_exalted_remedy_3":"Never harm ones brothers/sisters."
-"rahu_in_7th_house_description":"Native will be rich, but wife would suffer. He would be victorious over his enemies. If the marriage takes place before twenty one years, it would be inauspicious. He would have good relations with the government. But if he engages in business connected with Rahu, like electrical equipments, then he will have losses. Native would suffer from head ache and if Mercury, Venus or Ketu is in 11th house, then sister, wife or son would destroy the native."
-"rahu_in_7th_house_remedy_1":"Never marry before 21st year of age."
-"rahu_in_7th_house_remedy_2":"Offer six coconuts in river."
-"rahu_in_8th_house_description":"8th house is concerned with Saturn and Mars. So Rahu in this house gives malefic effect. The native would spend money uselessly on court cases. Family life would be adversely affected. If Mars is benefic and is placed in 1st or 8th house or Saturn (benefic) is placed in 8th house, the native will be very rich."
-"rahu_in_8th_house_remedy_1":"Keep a square piece of silver."
-"rahu_in_8th_house_remedy_2":"While sleeping Saunf should be keep under the pillow."
-"rahu_in_8th_house_remedy_3":"Do not work in electricity or power department."
-}
-20:{
-"general_interpretation_1":"fruitful; else it would adversely affect the native. If the native is not religious minded then his progeny would be useless for him. Professions influenced by Saturn would be profitable."
-"general_interpretation_2":"If Jupiter is in 5th or 11th house then it is useless. If Rahu is inauspicious in 9th house then chances of begetting a son are less, specially if native files court cases against one's blood relation. Rahu is in 9th and 1st house is empty thenhealth could be adversely affected and one gets insulted and mental problems, specially from olders."
-"general_remedy_1":"Use Tilak of saffron daily."
-"general_remedy_2":"Wear gold."
-"general_remedy_3":"Always keep a dog (it saves ones progeny)."
-"general_remedy_4":"Have good relations with your in-laws."
-"rahu_10th_house_interpretation_1":"Keeping ones head uncovered gives the effect of a debilitated Rahu in 10th house."
-"rahu_10th_house_interpretation_2":"The good or bad result of Rahu would depend upon Saturn's position."
-"rahu_10th_house_interpretation_3":"If Saturn is auspicious then native would be brave, long lived and rich and get respect from all quarters."
-"rahu_10th_house_interpretation_4":"If Rahu in 10th house is Moon with it gives Raja Yoga. The native is lucky for ones father."
-"rahu_10th_house_interpretation_5":"If Rahu in 10th house is malefic then it would adversely affect ones mother or native's health would also be bad."
-"rahu_10th_house_interpretation_6":"If Moon is alone in 4th house then native's eyes are adversely affected. He suffers from headaches and there is loss of wealth, because of a dark complexioned person."
-"rahu_10th_house_remedy_1":"Use blue or black cap."
-"rahu_10th_house_remedy_2":"Cover ones head."
-"rahu_10th_house_remedy_3":"Offer 4kg, or 400 gms of 'Khand' in a temple, or in flowing water."
-"rahu_10th_house_remedy_4":"Feed blind people."
-"rahu_11th_house_interpretation_1":"11th house is influenced by both Saturn and Jupiter."
-"rahu_11th_house_interpretation_2":"Native could be rich as long as his father is alive."
-"rahu_11th_house_interpretation_3":"Alternatively, establishing things of Jupiter would help."
-"rahu_11th_house_interpretation_4":"Native has wicked friends."
-"rahu_11th_house_interpretation_5":"He gets money from mean people."
-"rahu_11th_house_interpretation_6":"After the death of ones father he should wear gold in the neck."
-"rahu_11th_house_interpretation_7":"If Mars is malefic for a native with Rahu in 11th at time of his birth, there is every thing in his house, but every thing gets destroyed later."
-"rahu_11th_house_interpretation_8":"If Rahu in 11th house is malefic then the native has bad relations with his father or he may even kill him."
-"rahu_11th_house_interpretation_9":"Planet in 2nd house would act as enemy."
-"rahu_11th_house_interpretation_10":"If Jupiter/Saturn are in 3rd or 11th house then wear iron on the body and drink water in a silver glass."
-"rahu_11th_house_interpretation_11":"If Ketu is in 5th house then Ketu gives bad results."
-"rahu_11th_house_interpretation_12":"There may be diseases of ear, spine, urinary problems etc."
-"rahu_11th_house_interpretation_13":"There may be losses associated with business concerned with Ketu."
-"rahu_11th_house_remedy_1":"Wear iron."
-"rahu_11th_house_remedy_2":"Use silver glass for drinking water."
-"rahu_11th_house_remedy_3":"Never take any electric equipment as a gift."
-"rahu_11th_house_remedy_4":"Do not keep blue sapphire, ivory or toys in the shape of an elephant."
-"rahu_12th_house_interpretation_1":"12th house belongs to Jupiter. It signifies bedroom."
-"rahu_12th_house_interpretation_2":"Rahu here gives mental troubles, insomnia."
-"rahu_12th_house_interpretation_3":"It also leads to excessive expenditure on sisters and daughters."
-"rahu_12th_house_interpretation_4":"If Rahu is with its enemies then it becomes next to impossible to make ends meet, despite hard labour."
-"rahu_12th_house_interpretation_5":"It also leads to false allegations."
-"rahu_12th_house_interpretation_6":"One may even go to the extreme of contemplating suicide."
-"rahu_12th_house_interpretation_7":"One has mental worries."
-"rahu_12th_house_interpretation_8":"Telling lies, deceiving others etc. may make Rahu even more malefic."
-"rahu_12th_house_interpretation_9":"If some body sneezes at the start of any new work if gives malefic effect."
-"rahu_12th_house_interpretation_10":"There may be theft, diseases or false allegations."
-"rahu_12th_house_interpretation_11":"If Mars is with Rahu here, then it gives good results."
-"rahu_12th_house_remedy_1":"Take your meals in the kitchen itself."
-"rahu_12th_house_remedy_2":"Keep Saunf and Khand under the pillow for good night's sleep."
-}
-21:{
-"main_title":"Ketu : Effects and Remedies"
-"general_description_1":"Ketu, according to the author of Lal Kitab, represents son, grandson, ear, spine etc. 6th house is considered to be its 'Pucca Ghar.' It gives its exalted effect when in 5th, 9th or 12th house and its debilitated effect in 6th and 8th house. Dawn Es its time and it represents Sunday."
-"general_description_2":"Ketu represents the opposite node of Ketu, in the tail of the serpent. Its colours are black and white. Venus and Rahu are its friends, whereas Moon and Mars are its enemies."
-"general_description_3":"Forty two years is the age of Ketu. Ketu is also considered to be the bed. So the bed given by in-laws after marriage is considered to be auspicious for the birth of a son and as long as that bed is in the house, the effect of Ketu can never be inauspicious."
-"ketu_in_1st_house_description_1":"If Ketu is auspicious or benefic in this house, the native will be laborious, rich and happy, but will always be concerned and troubled because of his progeny. He may fear frequent transfers or travels, but ultimately it would always be postponed."
-"ketu_in_1st_house_description_2":"Whenever Ketu corners 1st house in Varsha Kundli there may be birth of a son or nephew. There may also be a long journey. The native with Ketu in 1st house will always be beneficial for his father and/or Guru and causes exaltation of Sun."
-"ketu_in_1st_house_malefic_description":"If Ketu in 1st house is malefic, the native would suffer from headache. His wife would have health problems and would have worries concerning kids. If 2nd and 7th houses are empty then Mercury and Venus would also give bad results. There would be travels, transfers with no gain. If Saturn is malefic it would destroy father and Guru."
-"ketu_in_1st_house_sun_effect_description":"If Sun is in 7th or 8th house then after the birth of a grandson the health would suffer. No alms should be given in morning and evening."
-"ketu_in_1st_house_remedy_1":"Feed jaggery (Gur) to monkeys."
-"ketu_in_1st_house_remedy_2":"Apply saffron as Tilak."
-"ketu_in_1st_house_remedy_3":"If offspring is troubled then donate a black and white blanket to temple."
-"ketu_in_2nd_house_description_1":"2nd house is affected by Moon, which is an enemy of Ketu."
-"ketu_in_2nd_house_benefic_description":"If Ketu in 2nd house is benefic then he gets paternal property. One has to travel a lot and his travels are fruitful. Venus gives good results, irrespective of its position. Moon would give bad results. If Sun is in 12th house then one starts earning his livelihood after twenty four years and is happy. If Jupiter is exalted along with Ketu in 2nd house, then income would be in lacs of rupees."
-"ketu_in_2nd_house_malefic_description_1":"If Ketu in 2nd house is malefic, then one has to travel to dry areas. One cannot rest at one place and would be wandering from place to place. Income may be good, but so would be the expenditure. Thus net gain would be negligible. If there is Moon or Mars in 8th house then native's life would be short and he would have serious problem at the age of sixteen or twenty years."
-"ketu_in_2nd_house_malefic_description_2":"If 8th house is empty then Ketu would give malefic results."
-"ketu_in_2nd_house_remedy_1":"Apply turmeric or saffron as Tilak."
-"ketu_in_2nd_house_remedy_2":"One should not be of loose character."
-"ketu_in_2nd_house_remedy_3":"If one religiously visits temples and bows his head there then Ketu in 2nd house would give good results."
-"ketu_in_3rd_house_description_1":"3rd house is affected by Mercury and Mars, both enemies of Ketu. Number 3 would have an important role in the life of the native."
-"ketu_in_3rd_house_benefic_description":"If Ketu in 3rd house is benefic then his children would be good. The native would be God fearing and a gentleman. If Ketu is in 3rd house and Mars is in 12th then the native has a son before 24th year of age. The son would be good for wealth and longevity of the native."
-"ketu_in_3rd_house_travel_description":"The native with Ketu in 3rd house usually gets a job, which entails long travels."
-"ketu_in_3rd_house_malefic_description_1":"If Ketu in 3rd house is malefic then native loses money in litigation. He gets separated from his wife/sisters-in-law. If such a native lives in a house with its main gate facing south, he will have serious problems regarding children."
-"ketu_in_3rd_house_malefic_description_2":"Such a native cannot say no to any thing and so will always have worries. He will have troubles from his brothers and will have to travel uselessly."
-"ketu_in_3rd_house_remedy_1":"Use saffron as Tilak."
-"ketu_in_3rd_house_remedy_2":"Wear gold."
-"ketu_in_3rd_house_remedy_3":"Offer jaggery, rice in flowing water."
-"ketu_in_4th_house_description_1":"4th house belongs to Moon, which is an enemy of Ketu. If Ketu is benefic in 4th house then the native is God fearing and lucky for his father and Guru. Son is born to such a native only after getting the blessings of one's Guru. The son born lives long. Such a native leaves all his decisions to God."
-"ketu_in_4th_house_moon_effect_description":"If Moon is in 3rd or 4th house the result is benefic. Such a native is a good adviser and will never have shortage of money. If Ketu is malefic in this house then the native is unhealthy, his mother is troubled, there is loss of happiness. One may suffer from diabetes. A son is born after thirty six years of age. Such a native has more daughters than sons."
-"ketu_in_4th_house_remedy_1":"Keep a dog."
-"ketu_in_4th_house_remedy_2":"Wear silver for peace of mind."
-"ketu_in_4th_house_remedy_3":"Offer yellow things in flowing water."
-"ketu_in_5th_house_description_1":"5th house belongs to Sun. It is also affected by Jupiter. If Jupiter, Sun or Moon is in 4th, 6th or 12th"
-}
-22:{
-"ketu_5th_house_description_1":"one's financial condition will be excellent and the native will have five sons."
-"ketu_5th_house_description_2":"Ketu becomes benefic by itself after twenty four years of age."
-"ketu_5th_house_description_3":"If Ketu in 5th house is malefic then the native suffers from asthma."
-"ketu_5th_house_description_4":"Ketu gives malefic results till five years of age."
-"ketu_5th_house_description_5":"Sons will not survive."
-"ketu_5th_house_description_6":"Livelihood starts after twenty four years of age."
-"ketu_5th_house_description_7":"The native is unlucky for ones sons."
-"ketu_5th_house_remedy_1":"Donate milk and sugar."
-"ketu_5th_house_remedy_2":"The remedies of Jupiter would be useful."
-"ketu_6th_house_description_1":"6th house belongs to Mercury."
-"ketu_6th_house_description_2":"Ketu in 6th house is considered debilitated."
-"ketu_6th_house_description_3":"This is 'Pucca' house of Ketu."
-"ketu_6th_house_description_4":"Here again the effect of Ketu depends upon the nature of Jupiter."
-"ketu_6th_house_description_5":"It gives good result regarding son."
-"ketu_6th_house_description_6":"The native is a good adviser."
-"ketu_6th_house_description_7":"If Jupiter is benefic then the native has a long life and his mother is happy and the life is peaceful."
-"ketu_6th_house_description_8":"If any two of the male planets viz Sun, Jupiter, Mars are in good position then Ketu is benefic."
-"ketu_6th_house_description_9":"If Ketu is malefic in 6th house then maternal uncle suffers."
-"ketu_6th_house_description_10":"The native has to suffer due to useless travels."
-"ketu_6th_house_description_11":"People turn into enemies without any reason."
-"ketu_6th_house_description_12":"The native suffers from skin diseases."
-"ketu_6th_house_description_13":"If Moon is in 2nd house then mother suffers and even the native's old age is troubled."
-"ketu_6th_house_remedy_1":"Wear golden ring in the finger of left hand."
-"ketu_6th_house_remedy_2":"Drink milk with saffron and wear gold in the ear."
-"ketu_6th_house_remedy_3":"Heat up a rod of gold and then dip it in milk. Then drink it. It would restore mental peace, increase longevity and is good for sons."
-"ketu_6th_house_remedy_4":"Keep a dog."
-"ketu_7th_house_description_1":"7th house belongs to Mercury and Venus."
-"ketu_7th_house_description_2":"If Ketu in 7th house is benefic then the native gets the wealth of forty years in twenty four years of age."
-"ketu_7th_house_description_3":"The wealth increases in proportion to the children one has."
-"ketu_7th_house_description_4":"The native's enemies are frightened of the native."
-"ketu_7th_house_description_5":"If one has the help of Mercury, Jupiter or Venus then the native is never disappointed."
-"ketu_7th_house_description_6":"If Ketu in 7th house is malefic then the native is usually ill, makes false promises and is troubled by enemies till thirty four years of age."
-"ketu_7th_house_description_7":"If there are more than one planet in Lagna then ones children are destroyed."
-"ketu_7th_house_description_8":"If one abuses then the native is destroyed."
-"ketu_7th_house_description_9":"If Ketu is with Mercury then after thirty four years of age the native's enemies are destroyed by themselves."
-"ketu_7th_house_remedy_1":"Never make a false promise, be proud, or abusive."
-"ketu_7th_house_remedy_2":"Use saffron as Tilak."
-"ketu_7th_house_remedy_3":"In case of serious trouble use the remedies of Jupiter."
-"ketu_8th_house_description_1":"8th house belongs to Mars, which is an enemy of Ketu."
-"ketu_8th_house_description_2":"If Ketu in 8th house is benefic then the native begets a son at thirty four years of age, or after the marriage of ones sister or daughter."
-"ketu_8th_house_description_3":"If Jupiter or Mars are not in 6th and 12th house then Ketu does not give malefic results."
-"ketu_8th_house_description_4":"Similar effect is there when Moon is in 2nd house."
-"ketu_8th_house_description_5":"If Ketu in 8th house is malefic then the native's wife has ill health."
-"ketu_8th_house_description_6":"Son will not be born, or may die."
-"ketu_8th_house_description_7":"The native may suffer from diabetes or urinary problem."
-"ketu_8th_house_description_8":"If Saturn or Mars are in 7th then the native is unlucky."
-"ketu_8th_house_description_9":"In case of malefic Ketu in 8th house the native's character determines the health of his wife."
-"ketu_8th_house_description_10":"After twenty six years of age the family life suffers."
-"ketu_8th_house_remedy_1":"Keep a dog."
-"ketu_8th_house_remedy_2":"Donate a black and white blanket in any temple."
-"ketu_8th_house_remedy_3":"Worship Lord Ganesha."
-"ketu_8th_house_remedy_4":"Wear gold in the ear."
-"ketu_8th_house_remedy_5":"Use saffron as Tilak."
-"ketu_9th_house_description_1":"9th house belongs to Jupiter, which favours Ketu."
-"ketu_9th_house_description_2":"Ketu in 9th house is considered to be exalted."
-"ketu_9th_house_description_3":"Such a native is obedient and lucky."
-"ketu_9th_house_description_4":"It increases ones wealth."
-"ketu_9th_house_description_5":"If Ketu is benefic then one earns wealth through ones own labour."
-"ketu_9th_house_description_6":"There will be progress but no transfer."
-"ketu_9th_house_description_7":"If one keeps gold brick in his house then wealth comes."
-"ketu_9th_house_description_8":"The son of such a native is able to guess the future."
-"ketu_9th_house_description_9":"One spends a big part of his life in foreign land."
-"ketu_9th_house_description_10":"One has at least three sons and if 2nd house is auspicious then Ketu gives excellent results."
-"ketu_9th_house_description_11":"If Moon is auspicious then the native helps his mother's family."
-"ketu_9th_house_description_12":"If Ketu in 9th house is malefic then the native suffers from urinary problems, pain in back, problem in legs."
-"ketu_9th_house_description_13":"The native's sons keep on dying."
-"ketu_9th_house_remedy_1":"Keep a dog."
-"ketu_9th_house_remedy_2":"Establish a rectangular piece of gold anywhere in the house."
-"ketu_9th_house_remedy_3":"Wear gold in the ear."
-"ketu_9th_house_remedy_4":"Respect elders, specially father- in- law."
-"ketu_10th_house_description_1":"10th house belongs to Saturn."
-"ketu_10th_house_description_2":"The effect of Ketu here depends upon the nature of Saturn."
-}
-23:{
-"ketu_10th_house_benefic_effect_1":"native is lucky, concerned about himself and opportunist."
-"ketu_10th_house_benefic_effect_2":"His father dies early."
-"general_saturn_6th_house_effect":"one is a famous player."
-"general_forgiveness_effect":"native will go on progressing."
-"general_good_character_effect":"earns a lot of wealth."
-"ketu_10th_house_malefic_effect_1":"one suffers from urinary and ear problems."
-"ketu_10th_house_malefic_effect_2":"The native has pain in bones."
-"saturn_4th_house_malefic_effect_1":"The domestic life is full of worries and troubled."
-"saturn_4th_house_malefic_effect_2":"Three sons would die."
-"remedy_general_1":"Keep silver pot full of honey in the house."
-"remedy_general_2":"Keep a dog, specially after 48 years of age."
-"remedy_general_3":"Avoid adultery."
-"remedy_general_4":"Use the remedies of Moon and Jupiter."
-"ketu_11th_house_description_1":"considered very good."
-"ketu_11th_house_description_2":"It gives wealth."
-"ketu_11th_house_description_3":"This house is affected by Jupiter and Saturn."
-"ketu_11th_house_benefic_saturn_3rd_house_effect_1":"gives enormous wealth."
-"ketu_11th_house_benefic_saturn_3rd_house_effect_2":"The wealth earned by the native is more than his paternal wealth, but one tends to worry about his future."
-"ketu_11th_house_mercury_3rd_house_effect":"leads to Raj Yoga."
-"ketu_11th_house_malefic_effect_1":"native has problem in his abdomen."
-"ketu_11th_house_malefic_effect_2":"The more he worries about future, more troubled he is."
-"ketu_11th_house_malefic_effect_3":"Grandmother or mother of the native suffers, if Saturn is also malefic."
-"ketu_11th_house_malefic_effect_4":"Then there would be no benefit from son or house."
-"ketu_11th_house_remedy_1":"Keep black dog."
-"ketu_11th_house_remedy_2":"Wear an onyx or emerald."
-"ketu_12th_house_description_1":"considered to be exalted."
-"ketu_12th_house_description_2":"The native is wealthy, achieves a big position and spends on good works."
-"ketu_12th_house_rahu_6th_house_mercury_effect":"effect is even better. One has all the benefits and luxuries of life."
-"ketu_12th_house_malefic_effect_1":"one buys land from an issueless person and the native becomes issueless himself."
-"ketu_12th_house_malefic_effect_2":"If one kills dogs Ketu gives malefic results."
-"ketu_12th_house_malefic_effect_3":"If 2nd house has Moon, Venus or Mars, Ketu gives malefic results."
-"ketu_12th_house_remedy_1":"Worship Lord Ganesha."
-"ketu_12th_house_remedy_2":"Do not have a loose character."
-"ketu_12th_house_remedy_3":"Keep a dog."
-"section_11_title":"Striking Principles and Precautions"
-"lal_kitab_principles_overview":"The author of Lal Kitab has enunciated such significant principles of astrology that stand well tested today and as such they are of utmost importance in our day to day life. In view of this, an effort is being made here to describe some unfailing principles and astrological precautions for the benefit of people at large."
-"residential_houses_rule_1":"no temple with idols should be constructed even for individual worship in a residential house. However, keeping photos or drawings of deities on paper is not prohibited."
-"residential_houses_rule_1_condition":"This is highly inauspicious for the natives born with Jupiter in 7th house."
-"residential_houses_rule_2":"If there is a small dark room at the end of the house, where there is no passage for air or light, the same should be left as it is and no attempt should be made to facilitate natural light through opening windows etc. in that room; otherwise, misfortunes will strike the residents."
-"residential_houses_rule_3":"Places where ornaments or money is kept secretly must not be left empty. If there is nothing to be kept, please put some dry fruits there."
-"residential_houses_rule_4":"There must necessarily be some uncemented place in a house. But if it is not feasible, the articles related to Venus must be installed and established therein."
-"safe_delivery_longevity_children_principle_1":"Worship of lord Ganesh is highly auspicious for children and property."
-"safe_delivery_longevity_children_principle_2":"For safe delivery of children, a milk pot filled with milk and a sugar pot filled with sugar must be touched by the delivering mother and kept at some different place. After the delivery both the pots should be offered to some temple and should not be brought back from there. Good effects will multiply if the quality of the pots is good."
-"safe_delivery_longevity_children_principle_3":"If one's children do not survive the native must distribute salty preparations in place of sweets, to celebrate the birth of the child."
-"alms_charity_prohibition_1_condition":"Moon in 6th house of the birth chart."
-"alms_charity_prohibition_1_action":"Digging of wells or providing drinking water facilities for public is strictly prohibited."
-"alms_charity_prohibition_1_consequence":"Any violation of the above would invite utter destruction and extreme poverty."
-"alms_charity_prohibition_2_condition":"Saturn in 8th house."
-"alms_charity_prohibition_2_action":"Building of Dharmshalas, Sarais or inns is strictly prohibited."
-"alms_charity_prohibition_3_condition":"Saturn in Lagna and Jupiter in 5th house."
-"alms_charity_prohibition_3_action":"copper coins are given in charity."
-"alms_charity_prohibition_3_consequence":"cause death of children one after the other."
-"alms_charity_prohibition_4_condition":"Jupiter in 10th and Moon in 4th."
-"alms_charity_prohibition_4_action":"he builds temples or Gurudwaras."
-"alms_charity_prohibition_4_consequence":"cause false allegations and critical legal proceedings against the native."
-"alms_charity_prohibition_5_condition":"Venus in 9th house."
-"alms_charity_prohibition_5_action":"Financial aid to widows and scholarships to poor children are strictly prohibited."
-"alms_charity_prohibition_6_condition":"native with Moon in 12th house."
-"alms_charity_prohibition_6_action":"opens schools for free education, or offers food to religious saints and Jogins."
-"alms_charity_prohibition_6_consequence":"Grave consequences would follow."
-}
-24:{
-"general_astrology_jupiter_7th_house_charity":"Anyone having Jupiter in 7th house must not offer clothes to anyone in charity"
-"general_astrology_sun_7th_8th_house_donations_effect":"Donations in the morning and evening hours by persons having Sun in 7th or 8th house of their horoscope will produce highly harmful and poisonous effects."
-"adoption_younger_brother_restriction_children_elder_brother":"The younger brother should never go for adoption of children of the elder brother."
-"adoption_younger_brother_restriction_marriage_daughter_elder_brother":"At the same time he should also not arrange the free marriage of the daughter of his elder brother."
-"adoption_consequences_of_forbidden_practices":"These practices would certainly lead to disastrous consequences."
-"bridegroom_selection_saturn_11th_house_effect":"Saturn in 11th house makes the native desert his wife and children in young age."
-"bridegroom_selection_saturn_2nd_house_effect":"Saturn in the boy's 2nd house proves inauspicious for the bride's family."
-"bridegroom_selection_mercury_rahu_combination_inauspicious_houses":"Mercury and Rahu combining in houses 3, 8, 9, or 12 of the groom is also inauspicious for the bride's family."
-"bridegroom_selection_venus_ketu_lagna_effect":"Venus and Ketu together in Lagna make the native impotent."
-"bridegroom_selection_groom_bad_habits_wealth_destruction_condition_intro":"The groom is likely to be of bad sexual habits and may destroy his wealth in that, if the planetary positions are as follows :"
-"bridegroom_selection_groom_bad_habits_condition_1":"Sun in 6th and Mars in 10th with the afflicted 12th house."
-"bridegroom_selection_groom_bad_habits_condition_2":"Moon in Lagna and Jupiter in 11th house."
-"bridegroom_selection_groom_bad_habits_condition_3":"Jupiter and Venus in 10th house."
-"remedy_sweet_loaves_of_bread_offering":"Sweet loaves of bread, specially baked in Tandoor, should be offered to animals every month for warding off sickness, quarrels and other troubles, caused by Mars negative in the horoscope."
-"remedy_water_pot_under_bed":"Place a pot of water under the headside of the bed at night and pour it on a tree or plant in the morning."
-"remedy_meals_in_kitchen":"Taking meals in the kitchen is a strong safeguard against the mischiefs of Rahu."
-"remedy_chapati_offering_animals":"From one's own meal a Chapati or a piece of it must be offered to cows, crows and dogs for allround well being and prosperity."
-"lal_kitab_temple_prayer_general_belief":"Further, we all believe that going to a temple for offering prayer is always a good thing, which must be admired and encouraged."
-"lal_kitab_restriction_malefic_saturn_8th_house_2nd_empty":"But according to Lal Kitab, the native having a malefic planet, especially Saturn in 8th house, when 2nd house is empty, must not visit temples or other places of worship. Rather he should bow his head from outside."
-"lal_kitab_restriction_planets_6th_8th_12th_inimical_2nd_empty":"Similarly, if planets occupying 6th, 8th and 12th houses are inimical to each other and 2nd house is not occupied by any planet, the native must avoid visiting temples and other religious places of worship."
-"lal_kitab_striking_feature_vedic_culture_admiration":"The most striking thing about Lal Kitab is that it enshrines due admiration for Vedic culture and philosophy of the Hindus."
-"lal_kitab_remedy_joint_family_living":"Living in a joint family has been suggested as a powerful remedial measure."
-"lal_kitab_remedy_sleep_on_father_bedsheet_if_joint_family_not_possible":"if for some reason this is not possible, the native should sleep on the bed sheet which was used by his father."
-"lal_kitab_remedy_blessings_of_parents_elders":"In other cases the native has been asked to obtain the blessings of parents and elders etc. as an amulet against the evil."
-"lal_kitab_remedies_effectiveness":"It is worth pointing out that such simple and innocent remedies have worked wonders in tested cases."
-}
+
+
+ 1: {
+
+                "prediction": "Benefic: The native will be fond of constructing religious buildings and digging of wells for public purposes. He will have permanent source of livelihood from government. Money earned from honest sources will keep multiplying. Malefic: The native's father may die in early childhood. Having sex in the day time will make the wife constantly ill. If Mars is in 5th house sons will die one after another. If Saturn is in 8th house, wives will die one after another.",
+
+                "remedy": "Marry before 24th year of life. Don't have sex with wife during the day time. Install a hand pump for water in your ancestral house. Construct small dark room in the left side at the end of your house. Either of the spouse must stop eating GUR (jaggery)."
+
+            },
+
+            2: {
+
+                "prediction": "Benefic: The native will be self-dependent, skilled in handiwork and would prove highly helpful to parents, maternal uncles, sisters, daughters and in-laws. Sun in 2nd will become more auspicious if Moon is placed in 6th house. Malefic: Sun will affect very adversely the things and relatives associated with planets inimical to Sun i.e., wife, wealth, widows, cows, taste, mother etc. Disputes regarding wealth, property and wife will spoil the native.",
+
+                "remedy": "Donate coconut, mustard oil and almonds to religious places of worship. Manage to avoid disputes involving wealth, property and ladies. Avoid accepting donations, specially rice, silver and milk."
+
+            },
+
+            3: {
+
+                "prediction": "Benefic: The native will be rich, self-dependant and having younger brothers. He will be blessed with divine grace and will earn profits by intellectual pursuits. He will be interested in astrology and mathematics. Malefic: If Sun is not auspicious in 3rd house and Moon is also not auspicious, there will be daylight robbery or theft in the native's house. If 9th house is afflicted, forefathers would have been poor.",
+
+                "remedy": "Obtain blessings of the mother by keeping her happy. Serve others with rice or milk. Practice good conduct and avoid evil deeds."
+
+            },
+
+            4: {
+
+                "prediction": "Benefic: The native will be wise, kind and a good administrator. He will have constant source of income. If Moon is with Sun in 4th house, the native will earn great profit through certain new researches. Mercury in 10th or 4th house will make such a native a renowned trader. Malefic: The native becomes greedy, inclined to commit theft and likes to harm others. If Saturn is in 7th house he becomes victimised by night blindness.",
+
+                "remedy": "Distribute alms and food to the needy people. Do not take up business associated with iron and wood. Business associated with gold, silver, cloth will give very good results."
+
+            },
+
+            5: {
+
+                "prediction": "Benefic: The progress and prosperity of family and children will be assured. If Mars is placed in 1st or 8th house and Rahu, Ketu, Saturn are in 9th and 12th houses, the native will lead king's life. If Sun is placed with any planet inimical to sun, the native will be bestowed honour by the government. Malefic: If Sun in 5th is inauspicious and Jupiter is in 10th, the wife of the native will die. If Saturn is placed in 3rd, sons of the native will die.",
+
+                "remedy": "Do not delay in having a child. Build your kitchen in the eastern portion of your house. Drop a little quantity of mustard oil on the ground continuously for 43 days."
+
+            },
+
+            6: {
+
+                "prediction": "Benefic: Native will be lucky, prone to anger, will have beautiful spouse and will benefit from the government. If Sun is in 6th house and Moon, Mars and Jupiter in 2nd house, following tradition will be beneficial. If Ketu is in 1st or 7th house then the native will have a son and after 48th year great fortune will follow. Malefic: The native's son and maternal family will face bad times. Will also affect native health adversely. If Mars is in 10th house the native's sons will die one after the other.",
+
+                "remedy": "Ancestral customs and rituals should be strictly followed. Underground furnaces should not be constructed within the premises of the house. After taking dinner blow off the fire of the kitchen stove by sprinkling milk over it. Always keep Gangajal in the premises. Offer wheat or Gur to monkeys."
+
+            },
+
+            7: {
+
+                "prediction": "Benefic: If Jupiter, Mars or Moon are placed in 2nd house, the native will occupy a ministerial position in the government. If Mercury is exalted or Mercury in 5th or 7th house is aspected by Mars, the native will have unending sources of income. Malefic: If Sun is inauspicious in 7th house and Jupiter, Venus or any malefic planet is in 11th house and Mercury is malefic, the native will encounter death of several members of his family together. Obstacles from government, diseases like tuberculosis and asthma will victimise the native.",
+
+                "remedy": "Lessen the amount of salt intake. Start any work after taking a little sweet with water. Offer a little piece of your chapati to the fire of the kitchen before taking your meals. Serve and rear up a black cow or a cow without horns."
+
+            },
+
+            8: {
+
+                "prediction": "Benefic: Government favours will accrue from the 22nd year of life. Here Sun makes the native truthful, saintly and king like. Nobody would be able to harm him. Malefic: Mercury in 2nd house will create economic crisis. Native will be short tempered, impatient and will have ill health.",
+
+                "remedy": "Never keep a white cloth in the house. Never live in the house facing south. Always eat something sweet and drink water before starting any new work. Throw copper coins in a burning pyre (Chita) whenever possible. Throw Gur (jaggery) in running water."
+
+            },
+
+            9: {
+
+                "prediction": "Benefic: Native will be lucky, good natured, will have good family life and will always help others. If Mercury is in 5th house, the native will have fortune after 34 years. Malefic: Native will be evil and troubled by his brothers. Disfavour from government and loss of reputation.",
+
+                "remedy": "Never accept articles of silver as gifts or donation. Donate silver articles frequently. Ancestral pots and utensils of brass must be used and not sold. Avoid extreme anger and extreme softness."
+
+            },
+
+            10: {
+
+                "prediction": "Benefic: Benefits and favours from government, good health and financially stronger. The native will get a government job and comforts of vehicles and servants. The native will always be suspicious about others. Malefic: If Sun is in 4th house, the native's father will die in his childhood. If Sun is in 10th house and moon is in 5th house the native will have a very short life. If 4th house is without any planet, the native will be deprived of government favours.",
+
+                "remedy": "Never wear blue or black clothes. Throwing a copper coin in a river or canal for 43 years will be highly beneficial. Abstain from liquor and meat."
+
+            },
+
+            11: {
+
+                "prediction": "Benefic: If the native is vegetarian he will have three sons and will himself be head of the house and will get benefits from government. Malefic: If Moon is in 5th house and Sun is not aspected by good planets, the native will have a short life span.",
+
+                "remedy": "Abstain from meat and wine. Keep almonds or radishes near the head of the bed and offer it in the temple next day for long life and children."
+
+            },
+
+            12: {
+
+                "prediction": "Benefic: If Ketu in 2nd house the native will earn wealth after 24 years and will have good family life. If Venus and Mercury are together then one will benefit from business and the native will always have steady source of income. Malefic: Native will suffer from depression, financial loss from machineries and will be punished by the government. If other evil planet is in 1st house, the native will not be able to sleep peacefully at night.",
+
+                "remedy": "Native should always have a courtyard in his house. One should be religious and truthful. Keep a Chakki in the house. Always forgive your enemies."
+
+            }
+
+        },
+
+        "Moon": {
+
+            1: {
+
+                "prediction": "The native will be soft-hearted and will inherit all the traits and qualities of his mother. He will be either the eldest brother or will certainly be treated so. As long as the native receives the blessings of his mother and keeps her happy, he will continue to rise and prosper in every way. The things and relatives represented by Mercury will prove harmful. Burning milk or selling milk for profit would reduce the power of the Moon.",
+
+                "remedy": "Do not marry between the age of 24 and 27 years. Do not build a house out of your earnings between 24 and 27 years of age. Keep away from green colour and sister-in-law. Offer water to the roots of a Banyan tree. Insert copper nails on four corners of your bed. Throw coins in river for welfare of children. Always keep a silver Thali in your house. Use Silver pots for drinking water."
+
+            },
+
+            2: {
+
+                "prediction": "Moon gives very good results in this house. Such a native may not have sisters, but will certainly be having brothers. He will certainly receive his due share in parental properties. The Moon here will ensure male offspring to the native. The native will receive good education, which will add to his fortune. The business associated with Moon will prove highly advantageous. Ketu placed in 12th house will cause eclipse of Moon, which will deprive the native either of good education or of male children.",
+
+                "remedy": "Temple within the native's house may deprive the native of male issue. The things associated with Moon i.e., silver, rice, non-cemented floor, mother and old women will prove very lucky. Offering green colour clothes to small girls continuously for 43 days. Place things associated with Moon into the foundation of your house."
+
+            },
+
+            3: {
+
+                "prediction": "Here Moon proves highly beneficial to ensure a long life and great wealth or riches for the native. If there are no planets in 9th and 11th houses, then Mars and Venus will give good results. With advancement of native's education, the economic condition of his father will deteriorate, but without affecting education. If Ketu's placing is auspicious, the education will bear good fruits. If Moon is malefic, it will cause great loss of wealth and money at the age of malefic planet placed in 9th house.",
+
+                "remedy": "Offer in donation things associated with Moon, e.g., silver or rice, after birth of a daughter and things associated with Sun e.g., wheat and jaggery when a son is born. Do not make use of your daughter's money and wealth. Serve guests by offering them milk and water freely. Worship Goddess Durga."
+
+            },
+
+            4: {
+
+                "prediction": "Here Moon becomes very strong and powerful in every manner. The native will be a reputed and honoured person with soft heart and all sorts of riches. He will inherit traits and qualities of his mother and will face problems of life boldly. He will receive honour and favours from government. Good education will be ensured. If Jupiter is in 6th house and Moon in 4th, parental profession will suit him. If Moon is placed with 4 planets in 4th house, the native will be economically very strong.",
+
+                "remedy": "Selling of milk for profit and burning of milk for making Khoya will have very adverse effects on income, life span and mental peace. Adultery and flirtation will be seriously detrimental. The more the expenses, the more the income. Before beginning any auspicious work, place a pitcher filled with milk in the house. Visit places of worship along with grandfather."
+
+            },
+
+            5: {
+
+                "prediction": "The native will adopt just and right means to earn wealth and will not yield to wrong doing. He may not do well in business but certainly receive favours and honours from government. Anyone supported by him will win. Moon in 5th house will give 5 sons if Ketu is well placed and benefic. By his education and learning the native will undertake measures for others welfare. The native will be destroyed if he becomes greedy and selfish.",
+
+                "remedy": "Keep control over your tongue. Never use abusive language. Avoid becoming greedy and over selfish. Deceit and dishonesty towards others will affect adversely. Acting upon advice of another person before trying to harm anybody will ensure very good results. Public service will enhance income and reputation."
+
+            },
+
+            6: {
+
+                "prediction": "This house is affected by Mercury and Ketu. The native will receive education with obstacles and will have to struggle a lot for reaping benefits of educational achievements. If Moon is placed in 6th, 2nd, 4th, 8th and 12th houses it is auspicious. The native would enliven a dying person by putting few drops of water in his mouth. If Moon is malefic and Mercury is in 2nd or 12th house, the native will have suicidal tendencies.",
+
+                "remedy": "Serve milk to your father with your own hands. Never take milk during night. Milk during day time and curd/cheese during night is permissible. Do not offer milk as donation except at religious places. Digging wells for public will destroy issues, but digging wells in hospital or cremation ground will not be harmful."
+
+            },
+
+            7: {
+
+                "prediction": "Venus and Mercury combined together give effects of Sun. The rays of Sun from 1st house would be enlightening the Moon in 7th, which means things and relatives represented by Moon will provide highly beneficial results. Educational achievements will prove fruitful for earning money. Native may or may not have properties but will certainly have cash money in hand always. The 7th Moon denotes conflict between native's wife and mother. Disobedience towards mother will cause troubles.",
+
+                "remedy": "Avoid marriage in the 24th year of your life. Always keep your mother happy. Never sell milk or water for profit. Do not burn milk for making Khoya. Ensure that in marriage your wife brings silver and rice equal to her weight from her parents."
+
+            },
+
+            8: {
+
+                "prediction": "Moon here affects the education of the native adversely, but if education goes well the native's mother's life will be shortened. The 8th Moon often deprives the native of his parental properties. If there is a well or pond adjacent to parental property, native will receive adverse results of Moon throughout his life. Evil effects of Moon in 8th house will be mitigated if Jupiter and Saturn are in 2nd house.",
+
+                "remedy": "Avoid gambling and flirting. Perform Shraddha ceremony for ancestors. Do not build any house after covering a well with roof. Obtain blessings of old men and children by touching their feet. Bring water from well or water tap of cremation ground and place it within your house. Offer gram and pulse in places of worship."
+
+            },
+
+            9: {
+
+                "prediction": "The 9th house belongs to Jupiter, who is a great friend of Moon. Hence native will imbibe traits and features of both these planets - good conduct, soft heartedness, religious bent of mind and love for virtuous acts and pilgrimage. Native will live upto 75 years. A friendly planet in 5th house will augment comforts from son. A friendly planet in 3rd house ensures great increase in money and wealth.",
+
+                "remedy": "Install things associated with Moon within the house, e.g., place a square piece of silver in the almirah. Serve the labourers with milk. Offer milk to snakes and rice to fish."
+
+            },
+
+            10: {
+
+                "prediction": "The 10th house is ruled by Saturn. Moon and Saturn are inimical, therefore medicines in liquid form will always prove harmful. Milk will act as poison if taken during night. If native is a medical practitioner, dry medicines administered by him will have magical effect for cure. If a surgeon, he will earn great wealth and fame for surgery. If 2nd and 4th houses are empty money and wealth will rain on him.",
+
+                "remedy": "Visits to religious places of worship will enhance fortune. Store natural water of rain or river in a container and keep it within house for 15 years. It will wash off poisons and evil effects. Avoid taking milk during night. Milch animals can neither live long nor prove beneficial. Abstain from wine, meat and adultery."
+
+            },
+
+            11: {
+
+                "prediction": "This house is strongly influenced by Jupiter and Saturn. Every planet placed in this house will destroy its inimical planets. Moon here will destroy its enemy Ketu's things i.e., the sons of the native. Here Moon will have to face combined power of enemies Saturn and Ketu, which will weaken Moon. If Ketu is in 4th house, the life of native's mother will be endangered. Business associated with Mercury will prove harmful.",
+
+                "remedy": "Offer milk in Bhairo Mandir and donate milk to others liberally. Ensure that grandmother does not see her grandson. Heat up a piece of gold in fire and put it in a glass of milk before drinking it. Throw 125 pieces of sweet (Peda) in a river."
+
+            },
+
+            12: {
+
+                "prediction": "This house belongs to Moon's friend Jupiter. Here Moon will have good effects on Mars and things associated with Mars, but will harm its enemies Mercury and Ketu. Hence business and things associated with house in which Mars is placed will provide highly beneficial effects. The Moon in 12th houses causes general fear in native's mind about unforeseen troubles and dangers, thus destroys sleep and peace of mind. Ketu in 4th house will become weak and affect native's son and mother adversely.",
+
+                "remedy": "Wear Gold in ears, drink milk after inserting hot piece of gold in it and visit religious places of worship. Never offer milk and food to religious saints/sadhus. Do not open school, college or educational institute and do not help children in obtaining free education."
+
+            }
+
+        }
+
+    } 
