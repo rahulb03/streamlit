@@ -237,10 +237,10 @@ class MockLalKitabPredictor:
 # --- 5. STREAMLIT UI LOGIC ---
 
 st.sidebar.header("Birth Details")
-name = st.sidebar.text_input("Name", "User")
-birth_date = st.sidebar.date_input("Date of Birth", date(1990, 1, 1))
-birth_time = st.sidebar.time_input("Time of Birth", time(12, 0))
-location_str = st.sidebar.text_input("Location (City, Country)", "New Delhi, India")
+name = st.sidebar.text_input("Name", "Bharati Rahul Sudharsinh")
+birth_date = st.sidebar.date_input("Date of Birth", date(2003, 11, 23))
+birth_time = st.sidebar.time_input("Time of Birth", time(14, 30))
+location_str = st.sidebar.text_input("Location (City, Country)", "Surat, India")
 
 run_btn = st.sidebar.button("Generate Predictions")
 
