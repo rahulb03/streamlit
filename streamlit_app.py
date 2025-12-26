@@ -383,7 +383,7 @@ OUTER_PLANET_IDS = {
 }
 
 # --- STATUS RULES ---
-# Exaltation (Sign, Degree) - Degree is deep exaltation point, we check Sign only for general status
+# Exaltation (Sign)
 EXALTATION_SIGNS = {
     "Sun": "Aries", "Moon": "Taurus", "Mars": "Capricorn", "Mercury": "Virgo",
     "Jupiter": "Cancer", "Venus": "Pisces", "Saturn": "Libra", "Rahu": "Taurus", "Ketu": "Scorpio"
@@ -427,7 +427,8 @@ def get_navamsha_sign(longitude):
     elif sign_index in [2, 6, 10]: start_index = 6
     else: start_index = 3
     
-    final_sign_index = (start_index + navamsha_part) % 12
+    # --- FIX WAS HERE: Renamed variable to match return statement ---
+    final_navamsha_sign_index = (start_index + navamsha_part) % 12
     return ZODIAC_SIGNS[final_navamsha_sign_index]
 
 def find_house(degree, cusps):
@@ -446,7 +447,7 @@ def find_house(degree, cusps):
 @st.cache_data
 def get_geo_data(location_name):
     try:
-        geolocator = Nominatim(user_agent="streamlit_kundali_app_v3")
+        geolocator = Nominatim(user_agent="streamlit_kundali_app_v4")
         location = geolocator.geocode(location_name)
         if location:
             return location.latitude, location.longitude
@@ -519,9 +520,8 @@ def calculate_chart(name, dob, tob, lat, lon, tz_offset):
     for p_name, p_id in TRADITIONAL_PLANET_IDS.items():
         planets[p_name] = process_planet(p_name, p_id, "traditional")
 
-    # Outer (No combustion/vargottama usually used, but we calculate basic position)
+    # Outer
     for p_name, p_id in OUTER_PLANET_IDS.items():
-        # Minimal processing for outer planets to avoid complex vedic rules applying where they shouldn't
         xx, _ = swe.calc_ut(jd_ut, p_id)
         sid_lon = (xx[0] - ayanamsa) % 360
         house = find_house(sid_lon, sidereal_cusps)
@@ -590,10 +590,10 @@ def generate_north_indian_svg(chart):
         if data.get('is_retrograde'): indicators.append("R")
         
         status = data.get('status', {})
-        if status.get('exalted'): indicators.append("↑")   # Up Arrow for Exalted
-        if status.get('debilitated'): indicators.append("↓") # Down Arrow for Debilitated
-        if status.get('vargottama'): indicators.append("V") # V for Vargottama
-        if status.get('combust'): indicators.append("C")   # C for Combust
+        if status.get('exalted'): indicators.append("↑")   # Up Arrow
+        if status.get('debilitated'): indicators.append("↓") # Down Arrow
+        if status.get('vargottama'): indicators.append("V") # Vargottama
+        if status.get('combust'): indicators.append("C")   # Combust
         
         indicator_str = f"({''.join(indicators)})" if indicators else ""
         
